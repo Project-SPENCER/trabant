@@ -1,0 +1,11 @@
+cloud_cover/*
+cloud_cover_full/*
+bupt_tiles/*
+bupt_splits/*
+sentinel_downloads/*
+bupt_trajectory*
+bupt_traces/*
+traces_zipped/*
+*.h5
+*.hdf5
+*.zip

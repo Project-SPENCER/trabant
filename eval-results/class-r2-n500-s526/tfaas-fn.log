@@ -1,0 +1,2007 @@
+function=class handler=0 GET /health
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:51:04] "GET /health HTTP/1.1" 200 -
+function=class handler=0 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:52:36] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:52:37] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:52:40] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Industrial
+function=class handler=0 saving image
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:52:41] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:52:43] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Herb.Vegetation
+function=class handler=0 skipping: Herb.Vegetation
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:52:48] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:52:49] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:52:51] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:52:56] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:52:57] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:53:01] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Herb.Vegetation
+function=class handler=0 skipping: Herb.Vegetation
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:53:02] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:53:03] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: PermanentCrop
+function=class handler=0 skipping: PermanentCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:53:05] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Industrial
+function=class handler=0 saving image
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:53:07] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:53:09] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Herb.Vegetation
+function=class handler=0 skipping: Herb.Vegetation
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:53:12] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:53:13] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 predicted: Residential
+function=class handler=0 skipping: Residential
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:53:14] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:53:15] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:53:16] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:53:17] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:53:18] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:53:19] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:53:20] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:53:22] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Herb.Vegetation
+function=class handler=0 skipping: Herb.Vegetation
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:53:24] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:53:25] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Herb.Vegetation
+function=class handler=0 skipping: Herb.Vegetation
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:53:26] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:53:28] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Herb.Vegetation
+function=class handler=0 skipping: Herb.Vegetation
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:53:29] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:53:37] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:53:38] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:53:39] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Herb.Vegetation
+function=class handler=0 skipping: Herb.Vegetation
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:53:41] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:53:42] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:53:47] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:53:48] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:53:49] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Industrial
+function=class handler=0 saving image
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:53:50] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Herb.Vegetation
+function=class handler=0 skipping: Herb.Vegetation
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:53:51] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:53:52] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:53:53] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:53:55] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Industrial
+function=class handler=0 saving image
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:53:56] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Industrial
+function=class handler=0 saving image
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:53:58] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:53:59] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:54:01] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: SeaLake
+function=class handler=0 skipping: SeaLake
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:54:02] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Residential
+function=class handler=0 skipping: Residential
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:54:08] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:54:09] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Herb.Vegetation
+function=class handler=0 skipping: Herb.Vegetation
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:54:12] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:54:13] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:54:15] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:54:16] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:54:17] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Industrial
+function=class handler=0 saving image
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:54:20] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:54:22] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:54:23] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Industrial
+function=class handler=0 saving image
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:54:27] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:54:29] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 predicted: Herb.Vegetation
+function=class handler=0 skipping: Herb.Vegetation
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:54:32] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Herb.Vegetation
+function=class handler=0 skipping: Herb.Vegetation
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:54:33] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:54:34] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Industrial
+function=class handler=0 saving image
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:54:36] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:54:38] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:54:39] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:54:46] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:54:47] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Herb.Vegetation
+function=class handler=0 skipping: Herb.Vegetation
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:54:48] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Industrial
+function=class handler=0 saving image
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:54:54] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Herb.Vegetation
+function=class handler=0 skipping: Herb.Vegetation
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:54:57] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:54:59] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Industrial
+function=class handler=0 saving image
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:55:04] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:55:06] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Industrial
+function=class handler=0 saving image
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:55:07] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Industrial
+function=class handler=0 saving image
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:55:08] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Industrial
+function=class handler=0 saving image
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:55:09] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Industrial
+function=class handler=0 saving image
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:55:10] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:55:13] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Herb.Vegetation
+function=class handler=0 skipping: Herb.Vegetation
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:55:14] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:55:16] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:55:17] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:55:18] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Industrial
+function=class handler=0 saving image
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:55:19] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:55:20] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:55:21] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Herb.Vegetation
+function=class handler=0 skipping: Herb.Vegetation
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:55:24] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:55:28] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:55:33] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:55:36] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:55:41] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:55:42] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:55:43] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:55:45] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Industrial
+function=class handler=0 saving image
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:55:47] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Industrial
+function=class handler=0 saving image
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:55:49] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:55:50] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:55:53] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:55:56] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:55:58] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:56:01] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Industrial
+function=class handler=0 saving image
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:56:03] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Industrial
+function=class handler=0 saving image
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:56:05] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:56:06] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Industrial
+function=class handler=0 saving image
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:56:08] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:56:09] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:56:11] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Industrial
+function=class handler=0 saving image
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:56:13] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:56:14] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:56:15] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:56:19] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:56:21] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:56:22] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:56:23] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:56:24] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:56:25] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:56:26] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Industrial
+function=class handler=0 saving image
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:56:31] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:56:32] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Herb.Vegetation
+function=class handler=0 skipping: Herb.Vegetation
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:56:33] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:56:35] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:56:40] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:56:42] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:56:44] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:56:47] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:56:51] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:56:52] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 predicted: Herb.Vegetation
+function=class handler=0 skipping: Herb.Vegetation
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:56:54] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:56:55] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:56:56] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Herb.Vegetation
+function=class handler=0 skipping: Herb.Vegetation
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:56:59] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:57:01] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:57:03] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:57:07] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:57:09] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:57:10] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:57:11] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Herb.Vegetation
+function=class handler=0 skipping: Herb.Vegetation
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:57:12] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:57:14] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:57:15] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:57:16] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:57:18] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Industrial
+function=class handler=0 saving image
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:57:20] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Industrial
+function=class handler=0 saving image
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:57:21] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:57:26] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:57:30] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Highway
+function=class handler=0 skipping: Highway
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:57:34] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:57:35] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Herb.Vegetation
+function=class handler=0 skipping: Herb.Vegetation
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:57:36] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Herb.Vegetation
+function=class handler=0 skipping: Herb.Vegetation
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:57:38] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:57:40] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:57:44] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Herb.Vegetation
+function=class handler=0 skipping: Herb.Vegetation
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:57:45] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Industrial
+function=class handler=0 saving image
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:57:47] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:57:48] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:57:50] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:57:53] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Industrial
+function=class handler=0 saving image
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:57:54] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Industrial
+function=class handler=0 saving image
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:57:56] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:57:59] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:58:01] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:58:05] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:58:06] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Industrial
+function=class handler=0 saving image
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:58:08] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Industrial
+function=class handler=0 saving image
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:58:11] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Herb.Vegetation
+function=class handler=0 skipping: Herb.Vegetation
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:58:12] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Herb.Vegetation
+function=class handler=0 skipping: Herb.Vegetation
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:58:13] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:58:16] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:58:17] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Herb.Vegetation
+function=class handler=0 skipping: Herb.Vegetation
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:58:23] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Industrial
+function=class handler=0 saving image
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:58:24] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:58:26] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Industrial
+function=class handler=0 saving image
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:58:29] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:58:30] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:58:31] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:58:32] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:58:35] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Herb.Vegetation
+function=class handler=0 skipping: Herb.Vegetation
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:58:36] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:58:40] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:58:41] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:58:42] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Industrial
+function=class handler=0 saving image
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:58:43] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Herb.Vegetation
+function=class handler=0 skipping: Herb.Vegetation
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:58:44] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: PermanentCrop
+function=class handler=0 skipping: PermanentCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:58:45] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:58:47] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Herb.Vegetation
+function=class handler=0 skipping: Herb.Vegetation
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:58:48] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Herb.Vegetation
+function=class handler=0 skipping: Herb.Vegetation
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:58:54] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Industrial
+function=class handler=0 saving image
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:58:56] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:58:58] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:58:59] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:59:01] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Herb.Vegetation
+function=class handler=0 skipping: Herb.Vegetation
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:59:02] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Herb.Vegetation
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:59:07] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 skipping: Herb.Vegetation
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:59:08] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:59:09] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Herb.Vegetation
+function=class handler=0 skipping: Herb.Vegetation
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:59:14] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:59:15] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:59:16] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:59:18] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Herb.Vegetation
+function=class handler=0 skipping: Herb.Vegetation
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:59:24] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:59:28] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:59:30] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:59:33] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:59:34] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Herb.Vegetation
+function=class handler=0 skipping: Herb.Vegetation
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:59:35] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:59:36] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:59:40] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:59:45] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:59:46] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:59:47] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:59:54] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Industrial
+function=class handler=0 saving image
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:59:55] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Industrial
+function=class handler=0 saving image
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 05:59:58] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Herb.Vegetation
+function=class handler=0 skipping: Herb.Vegetation
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 06:00:01] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 06:00:03] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 06:00:08] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 06:00:11] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 06:00:16] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Industrial
+function=class handler=0 saving image
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 06:00:18] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 06:00:23] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Industrial
+function=class handler=0 saving image
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 06:00:26] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 06:00:27] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Herb.Vegetation
+function=class handler=0 skipping: Herb.Vegetation
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 06:00:28] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 06:00:30] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 06:00:31] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 06:00:32] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 06:00:33] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 06:00:34] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 06:00:37] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 06:00:38] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 06:00:43] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Industrial
+function=class handler=0 saving image
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 06:00:45] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 06:00:48] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Herb.Vegetation
+function=class handler=0 skipping: Herb.Vegetation
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 06:00:49] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 06:00:51] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 06:00:52] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 06:00:53] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Industrial
+function=class handler=0 saving image
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 06:00:54] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 06:00:55] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 06:00:57] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 06:00:59] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 06:01:00] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 06:01:02] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Herb.Vegetation
+function=class handler=0 skipping: Herb.Vegetation
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 06:01:03] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 06:01:04] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 06:01:07] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 06:01:12] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Industrial
+function=class handler=0 saving image
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 06:01:13] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 06:01:14] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Herb.Vegetation
+function=class handler=0 skipping: Herb.Vegetation
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 06:01:16] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 06:01:22] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Residential
+function=class handler=0 skipping: Residential
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 06:01:25] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 06:01:28] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 06:01:29] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Herb.Vegetation
+function=class handler=0 skipping: Herb.Vegetation
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 06:01:30] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 06:01:31] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 06:01:32] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: AnnualCrop
+function=class handler=0 skipping: AnnualCrop
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 06:01:35] "POST /fn HTTP/1.1" 200 -
+function=class handler=0 (64, 64, 3) uint8
+function=class handler=0 predicted: Herb.Vegetation
+function=class handler=0 skipping: Herb.Vegetation
+function=class handler=0 172.20.0.1 - - [16/Oct/2024 06:01:36] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 GET /health
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:51:04] "GET /health HTTP/1.1" 200 -
+function=class handler=1 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:52:38] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Industrial
+function=class handler=1 saving image
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:52:39] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:52:42] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Herb.Vegetation
+function=class handler=1 skipping: Herb.Vegetation
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:52:44] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Herb.Vegetation
+function=class handler=1 skipping: Herb.Vegetation
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:52:45] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:52:47] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Herb.Vegetation
+function=class handler=1 skipping: Herb.Vegetation
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:52:50] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:52:52] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:52:53] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Herb.Vegetation
+function=class handler=1 skipping: Herb.Vegetation
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:52:54] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:52:55] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:52:59] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:53:00] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Herb.Vegetation
+function=class handler=1 skipping: Herb.Vegetation
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:53:04] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Industrial
+function=class handler=1 saving image
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:53:06] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:53:08] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Residential
+function=class handler=1 skipping: Residential
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:53:10] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Herb.Vegetation
+function=class handler=1 skipping: Herb.Vegetation
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:53:21] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:53:27] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Herb.Vegetation
+function=class handler=1 skipping: Herb.Vegetation
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:53:30] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Herb.Vegetation
+function=class handler=1 skipping: Herb.Vegetation
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:53:31] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:53:33] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:53:34] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:53:35] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:53:36] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Herb.Vegetation
+function=class handler=1 skipping: Herb.Vegetation
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:53:40] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:53:44] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:53:45] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Industrial
+function=class handler=1 saving image
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:53:46] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Industrial
+function=class handler=1 saving image
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:53:57] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:54:00] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:54:03] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:54:04] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Residential
+function=class handler=1 skipping: Residential
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:54:05] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Herb.Vegetation
+function=class handler=1 skipping: Herb.Vegetation
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:54:06] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:54:10] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Industrial
+function=class handler=1 saving image
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:54:11] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:54:14] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Herb.Vegetation
+function=class handler=1 skipping: Herb.Vegetation
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Industrial
+function=class handler=1 saving image
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:54:19] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Industrial
+function=class handler=1 saving image
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:54:21] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Herb.Vegetation
+function=class handler=1 skipping: Herb.Vegetation
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:54:24] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:54:25] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:54:26] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:54:28] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:54:31] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:54:35] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:54:37] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:54:40] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:54:41] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:54:43] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Herb.Vegetation
+function=class handler=1 skipping: Herb.Vegetation
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:54:44] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Industrial
+function=class handler=1 saving image
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:54:45] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Herb.Vegetation
+function=class handler=1 skipping: Herb.Vegetation
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:54:49] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Industrial
+function=class handler=1 saving image
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:54:50] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Herb.Vegetation
+function=class handler=1 skipping: Herb.Vegetation
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:54:51] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:54:52] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:54:55] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Industrial
+function=class handler=1 saving image
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:54:56] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Herb.Vegetation
+function=class handler=1 skipping: Herb.Vegetation
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:54:58] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:55:00] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:55:01] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:55:02] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:55:03] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Herb.Vegetation
+function=class handler=1 skipping: Herb.Vegetation
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:55:11] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Herb.Vegetation
+function=class handler=1 skipping: Herb.Vegetation
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:55:12] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Herb.Vegetation
+function=class handler=1 skipping: Herb.Vegetation
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:55:22] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:55:23] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Industrial
+function=class handler=1 saving image
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:55:25] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:55:26] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Herb.Vegetation
+function=class handler=1 skipping: Herb.Vegetation
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:55:29] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:55:30] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:55:31] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:55:32] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:55:34] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:55:35] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:55:37] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:55:39] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:55:40] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:55:44] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:55:46] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Industrial
+function=class handler=1 saving image
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:55:48] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:55:52] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:55:54] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:55:55] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:55:57] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Herb.Vegetation
+function=class handler=1 skipping: Herb.Vegetation
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:55:59] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:56:00] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:56:04] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:56:07] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:56:10] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Herb.Vegetation
+function=class handler=1 skipping: Herb.Vegetation
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:56:12] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:56:17] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Herb.Vegetation
+function=class handler=1 skipping: Herb.Vegetation
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:56:18] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:56:20] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Herb.Vegetation
+function=class handler=1 skipping: Herb.Vegetation
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:56:28] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Herb.Vegetation
+function=class handler=1 skipping: Herb.Vegetation
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:56:29] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Herb.Vegetation
+function=class handler=1 skipping: Herb.Vegetation
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:56:30] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Industrial
+function=class handler=1 saving image
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:56:34] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:56:36] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:56:38] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:56:39] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Herb.Vegetation
+function=class handler=1 skipping: Herb.Vegetation
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:56:41] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:56:43] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:56:45] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Herb.Vegetation
+function=class handler=1 skipping: Herb.Vegetation
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:56:46] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:56:48] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Herb.Vegetation
+function=class handler=1 skipping: Herb.Vegetation
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:56:50] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Herb.Vegetation
+function=class handler=1 skipping: Herb.Vegetation
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:56:53] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:56:57] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:57:00] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:57:02] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:57:04] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:57:05] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:57:06] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:57:13] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:57:17] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Herb.Vegetation
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:57:22] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 skipping: Herb.Vegetation
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:57:23] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:57:24] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Herb.Vegetation
+function=class handler=1 skipping: Herb.Vegetation
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:57:25] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:57:27] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:57:28] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:57:29] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Herb.Vegetation
+function=class handler=1 skipping: Herb.Vegetation
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Industrial
+function=class handler=1 saving image
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:57:31] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:57:33] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:57:37] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Herb.Vegetation
+function=class handler=1 skipping: Herb.Vegetation
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:57:39] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:57:41] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:57:42] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:57:46] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:57:49] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:57:51] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Herb.Vegetation
+function=class handler=1 skipping: Herb.Vegetation
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:57:52] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:57:57] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:57:58] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:58:00] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:58:02] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Herb.Vegetation
+function=class handler=1 skipping: Herb.Vegetation
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:58:03] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:58:04] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:58:09] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Residential
+function=class handler=1 skipping: Residential
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:58:10] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:58:14] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:58:15] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Industrial
+function=class handler=1 saving image
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:58:19] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:58:20] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:58:21] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:58:22] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Herb.Vegetation
+function=class handler=1 skipping: Herb.Vegetation
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:58:25] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:58:28] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Herb.Vegetation
+function=class handler=1 skipping: Herb.Vegetation
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:58:33] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:58:34] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:58:37] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:58:38] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:58:46] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:58:51] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:58:52] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:58:53] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:58:57] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Residential
+function=class handler=1 skipping: Residential
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:59:00] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Herb.Vegetation
+function=class handler=1 skipping: Herb.Vegetation
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:59:03] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:59:04] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Industrial
+function=class handler=1 saving image
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:59:05] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:59:10] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:59:11] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:59:12] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:59:13] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:59:19] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Industrial
+function=class handler=1 saving image
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:59:20] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Herb.Vegetation
+function=class handler=1 skipping: Herb.Vegetation
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:59:21] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:59:22] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:59:23] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Herb.Vegetation
+function=class handler=1 skipping: Herb.Vegetation
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:59:25] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:59:26] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Herb.Vegetation
+function=class handler=1 skipping: Herb.Vegetation
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:59:27] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:59:31] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:59:32] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:59:37] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:59:38] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:59:39] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:59:42] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:59:43] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:59:44] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Herb.Vegetation
+function=class handler=1 skipping: Herb.Vegetation
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:59:48] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Industrial
+function=class handler=1 saving image
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:59:49] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:59:50] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:59:52] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:59:53] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:59:56] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:59:57] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Industrial
+function=class handler=1 saving image
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 05:59:59] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Industrial
+function=class handler=1 saving image
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 06:00:02] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 06:00:04] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 06:00:05] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 06:00:06] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 06:00:07] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Herb.Vegetation
+function=class handler=1 skipping: Herb.Vegetation
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 06:00:09] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 06:00:10] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Herb.Vegetation
+function=class handler=1 skipping: Herb.Vegetation
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 06:00:12] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 06:00:14] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Herb.Vegetation
+function=class handler=1 skipping: Herb.Vegetation
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 06:00:15] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 06:00:17] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Industrial
+function=class handler=1 saving image
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 06:00:19] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Industrial
+function=class handler=1 saving image
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 06:00:20] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Herb.Vegetation
+function=class handler=1 skipping: Herb.Vegetation
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 06:00:21] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 06:00:22] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Industrial
+function=class handler=1 saving image
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 06:00:25] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 06:00:29] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Herb.Vegetation
+function=class handler=1 skipping: Herb.Vegetation
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 06:00:36] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Herb.Vegetation
+function=class handler=1 skipping: Herb.Vegetation
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 06:00:39] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 06:00:40] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 06:00:41] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 06:00:42] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 06:00:44] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 06:00:46] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 06:00:50] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 06:00:56] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 06:01:01] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Industrial
+function=class handler=1 saving image
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 06:01:05] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 06:01:06] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 06:01:08] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Herb.Vegetation
+function=class handler=1 skipping: Herb.Vegetation
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 06:01:10] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 06:01:11] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 06:01:15] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 06:01:17] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 06:01:18] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Industrial
+function=class handler=1 saving image
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 06:01:19] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 06:01:20] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 06:01:23] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 06:01:24] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Industrial
+function=class handler=1 saving image
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 06:01:26] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Herb.Vegetation
+function=class handler=1 skipping: Herb.Vegetation
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 06:01:27] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 06:01:34] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 06:01:37] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Herb.Vegetation
+function=class handler=1 skipping: Herb.Vegetation
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 06:01:38] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Herb.Vegetation
+function=class handler=1 skipping: Herb.Vegetation
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 06:01:39] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 06:01:40] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 06:01:41] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Herb.Vegetation
+function=class handler=1 skipping: Herb.Vegetation
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 06:01:42] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: AnnualCrop
+function=class handler=1 skipping: AnnualCrop
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 06:01:43] "POST /fn HTTP/1.1" 200 -
+function=class handler=1 (64, 64, 3) uint8
+function=class handler=1 predicted: Herb.Vegetation
+function=class handler=1 skipping: Herb.Vegetation
+function=class handler=1 172.20.0.1 - - [16/Oct/2024 06:01:45] "POST /fn HTTP/1.1" 200 -
+

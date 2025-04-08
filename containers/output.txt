@@ -1,0 +1,81 @@
+zip file compressed
+2575445
+tar file uncompressed
+2785280
+normal container
+IMAGE          CREATED          CREATED BY                                      SIZE      COMMENT
+78d74ba382c6   24 minutes ago   CMD ["python3" "server.py"]                     0B        buildkit.dockerfile.v0
+<missing>      24 minutes ago   COPY multiclass.tflite . # buildkit             2.77MB    buildkit.dockerfile.v0
+<missing>      24 minutes ago   COPY fn.py . # buildkit                         6.48kB    buildkit.dockerfile.v0
+<missing>      24 minutes ago   COPY server.py . # buildkit                     2.06kB    buildkit.dockerfile.v0
+<missing>      24 minutes ago   WORKDIR /usr/src/app                            0B        buildkit.dockerfile.v0
+<missing>      24 minutes ago   RUN /bin/sh -c python3 -m pip install "numpy…   119MB     buildkit.dockerfile.v0
+<missing>      24 minutes ago   ENV LANG=C.UTF-8                                0B        buildkit.dockerfile.v0
+<missing>      5 weeks ago      CMD ["python3"]                                 0B        buildkit.dockerfile.v0
+<missing>      5 weeks ago      RUN /bin/sh -c set -eux;  for src in idle3 p…   36B       buildkit.dockerfile.v0
+<missing>      5 weeks ago      RUN /bin/sh -c set -eux;   wget -O python.ta…   64.7MB    buildkit.dockerfile.v0
+<missing>      5 weeks ago      ENV PYTHON_VERSION=3.11.10                      0B        buildkit.dockerfile.v0
+<missing>      5 weeks ago      ENV GPG_KEY=A035C8C19219BA821ECEA86B64E628F8…   0B        buildkit.dockerfile.v0
+<missing>      5 weeks ago      RUN /bin/sh -c set -eux;  apt-get update;  a…   18.2MB    buildkit.dockerfile.v0
+<missing>      5 weeks ago      ENV LANG=C.UTF-8                                0B        buildkit.dockerfile.v0
+<missing>      5 weeks ago      ENV PATH=/usr/local/bin:/usr/local/sbin:/usr…   0B        buildkit.dockerfile.v0
+<missing>      5 weeks ago      /bin/sh -c set -ex;  apt-get update;  apt-ge…   560MB     
+<missing>      5 weeks ago      /bin/sh -c set -eux;  apt-get update;  apt-g…   183MB     
+<missing>      5 weeks ago      /bin/sh -c set -eux;  apt-get update;  apt-g…   48.5MB    
+<missing>      5 weeks ago      /bin/sh -c #(nop)  CMD ["bash"]                 0B        
+<missing>      5 weeks ago      /bin/sh -c #(nop) ADD file:e689b230a6f8e5eb3…   139MB     
+1160010752
+413652155
+91b41e970d71c8e0be188242b09377ccf6359eeb177a06d8634894a386c95e31
+OK\n 
+mc-normal
+Untagged: mc-normal:latest
+Deleted: sha256:78d74ba382c6a7a8c2c064bd49500fb7dcefa7e5620f3d95d9a374a10b5d1907
+slim container
+IMAGE          CREATED          CREATED BY                                      SIZE      COMMENT
+135f6c8c7bd8   31 minutes ago   CMD ["python3" "server.py"]                     0B        buildkit.dockerfile.v0
+<missing>      31 minutes ago   COPY multiclass.tflite . # buildkit             2.77MB    buildkit.dockerfile.v0
+<missing>      31 minutes ago   COPY fn.py . # buildkit                         6.48kB    buildkit.dockerfile.v0
+<missing>      31 minutes ago   COPY server.py . # buildkit                     2.06kB    buildkit.dockerfile.v0
+<missing>      31 minutes ago   WORKDIR /usr/src/app                            0B        buildkit.dockerfile.v0
+<missing>      31 minutes ago   RUN /bin/sh -c python3 -m pip install "numpy…   119MB     buildkit.dockerfile.v0
+<missing>      31 minutes ago   ENV LANG=C.UTF-8                                0B        buildkit.dockerfile.v0
+<missing>      5 weeks ago      CMD ["python3"]                                 0B        buildkit.dockerfile.v0
+<missing>      5 weeks ago      RUN /bin/sh -c set -eux;  for src in idle3 p…   36B       buildkit.dockerfile.v0
+<missing>      5 weeks ago      RUN /bin/sh -c set -eux;   savedAptMark="$(a…   49.2MB    buildkit.dockerfile.v0
+<missing>      5 weeks ago      ENV PYTHON_VERSION=3.11.10                      0B        buildkit.dockerfile.v0
+<missing>      5 weeks ago      ENV GPG_KEY=A035C8C19219BA821ECEA86B64E628F8…   0B        buildkit.dockerfile.v0
+<missing>      5 weeks ago      RUN /bin/sh -c set -eux;  apt-get update;  a…   9.17MB    buildkit.dockerfile.v0
+<missing>      5 weeks ago      ENV LANG=C.UTF-8                                0B        buildkit.dockerfile.v0
+<missing>      5 weeks ago      ENV PATH=/usr/local/bin:/usr/local/sbin:/usr…   0B        buildkit.dockerfile.v0
+<missing>      5 weeks ago      /bin/sh -c #(nop)  CMD ["bash"]                 0B        
+<missing>      5 weeks ago      /bin/sh -c #(nop) ADD file:28df1cb6a6576d40b…   97.1MB    
+284257280
+100473773
+a8610b5d3d11839b616a1a0d2fe71e09f808eeace613a7b3f1823272ae163a06
+OK\n 
+mc-slim
+Untagged: mc-slim:latest
+Deleted: sha256:135f6c8c7bd8a8c09f8fe205bcf596bae80a20604dc02c3268b9bf4e14beec9d
+alpine container
+IMAGE          CREATED             CREATED BY                                      SIZE      COMMENT
+d14cc167fe80   31 minutes ago      CMD ["python3" "server.py"]                     0B        buildkit.dockerfile.v0
+<missing>      31 minutes ago      COPY multiclass.tflite . # buildkit             2.77MB    buildkit.dockerfile.v0
+<missing>      31 minutes ago      COPY fn.py . # buildkit                         6.48kB    buildkit.dockerfile.v0
+<missing>      31 minutes ago      COPY server.py . # buildkit                     2.06kB    buildkit.dockerfile.v0
+<missing>      36 minutes ago      WORKDIR /usr/src/app                            0B        buildkit.dockerfile.v0
+<missing>      36 minutes ago      COPY /usr/lib/libgcc_s.so.1 /usr/lib/libgcc_…   133kB     buildkit.dockerfile.v0
+<missing>      36 minutes ago      RUN /bin/sh -c ln -s /usr/lib/libstdc++.so.6…   0B        buildkit.dockerfile.v0
+<missing>      36 minutes ago      COPY /usr/lib/libstdc++.so.6.0.32 /usr/lib/l…   2.69MB    buildkit.dockerfile.v0
+<missing>      36 minutes ago      COPY /usr/local/ /usr/local/ # buildkit         108MB     buildkit.dockerfile.v0
+<missing>      About an hour ago   RUN /bin/sh -c apk add --no-cache libbz2 exp…   3.01MB    buildkit.dockerfile.v0
+<missing>      About an hour ago   ENV LANG=C.UTF-8                                0B        buildkit.dockerfile.v0
+<missing>      5 weeks ago         /bin/sh -c #(nop)  CMD ["/bin/sh"]              0B        
+<missing>      5 weeks ago         /bin/sh -c #(nop) ADD file:9865d69f45511580c…   7.74MB    
+126930432
+39421734
+0248b6426a10fc1e5b1a84e5bba20765a8b8b15592b258ee73572b9524d8054a
+OK\n 
+mc-alpine
+Untagged: mc-alpine:latest
+Deleted: sha256:d14cc167fe80dc3fd4bb76d7781e118c816a70a6c1f60899e6c3cef26eb63cc3

@@ -1,0 +1,12 @@
+diff --git a/tensorflow/lite/tools/pip_package/build_pip_package_with_cmake.sh b/tensorflow/lite/tools/pip_package/build_pip_package_with_cmake.sh
+index f626d0b4e9a..af2dffd3925 100755
+--- a/tensorflow/lite/tools/pip_package/build_pip_package_with_cmake.sh
++++ b/tensorflow/lite/tools/pip_package/build_pip_package_with_cmake.sh
+@@ -124,6 +124,7 @@ case "${TENSORFLOW_TARGET}" in
+     ;;
+ esac
+ 
++sed -i 's/(_XOPEN_VERSION >= 700)) \&\& /(_XOPEN_VERSION >= 700) \&\& defined(__GLIBC__) \&\& !defined(__UCLIBC__)) \&\& /g' ${TENSORFLOW_LITE_DIR}/tools/pip_package/gen/tflite_pip/python3/cmake_build/flatbuffers/include/flatbuffers/base.h
+ cmake --build . --verbose -j ${BUILD_NUM_JOBS} -t _pywrap_tensorflow_interpreter_wrapper
+ cd "${BUILD_DIR}"
+ 

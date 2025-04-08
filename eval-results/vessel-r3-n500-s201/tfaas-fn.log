@@ -1,0 +1,1751 @@
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:03:33] "GET /health HTTP/1.1" 200 -
+function=vessel handler=0 GET /health
+function=vessel handler=0 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.614081859588623
+function=vessel handler=0 skipping: 0.614081859588623 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:05:06] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 skipping: 0.0776562499999977 > 0.01
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:05:08] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.5865097045898438
+function=vessel handler=0 skipping: 0.5865097045898438 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:05:13] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6760544180870056
+function=vessel handler=0 skipping: 0.6760544180870056 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:05:15] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:05:16] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 skipping: 0.03834609985351567 > 0.01
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.21021193265914917
+function=vessel handler=0 skipping: 0.21021193265914917 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:05:26] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6604709625244141
+function=vessel handler=0 skipping: 0.6604709625244141 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:05:28] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6839562654495239
+function=vessel handler=0 skipping: 0.6839562654495239 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:05:39] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6505945920944214
+function=vessel handler=0 skipping: 0.6505945920944214 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:05:45] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6757293939590454
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:05:47] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 skipping: 0.6757293939590454 < 0.8
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.694615364074707
+function=vessel handler=0 skipping: 0.694615364074707 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:05:49] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6625676155090332
+function=vessel handler=0 skipping: 0.6625676155090332 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:05:53] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6680761575698853
+function=vessel handler=0 skipping: 0.6680761575698853 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:05:55] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.9706078767776489
+function=vessel handler=0 saving image
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:05:57] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 skipping: 0.0136871337890625 > 0.01
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:05:58] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6653740406036377
+function=vessel handler=0 skipping: 0.6653740406036377 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:06:00] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:06:05] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 boat probability: 0.6757293939590454
+function=vessel handler=0 skipping: 0.6757293939590454 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:06:08] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 skipping: 0.10130386352540735 > 0.01
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.7143813371658325
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:06:11] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 skipping: 0.7143813371658325 < 0.8
+function=vessel handler=0 skipping: 0.051022644042968926 > 0.01
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:06:12] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 skipping: 0.11690521240234375 > 0.01
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:06:15] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.7672970294952393
+function=vessel handler=0 skipping: 0.7672970294952393 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:06:17] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.7149051427841187
+function=vessel handler=0 skipping: 0.7149051427841187 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:06:32] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.9710004925727844
+function=vessel handler=0 saving image
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:06:33] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.2098294496536255
+function=vessel handler=0 skipping: 0.2098294496536255 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:06:37] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.7672970294952393
+function=vessel handler=0 skipping: 0.7672970294952393 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:06:39] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 skipping: 0.27620025634765516 > 0.01
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:06:40] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:06:41] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 skipping: 0.27620025634765516 > 0.01
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:06:49] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 skipping: 0.27620025634765516 > 0.01
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.9874041676521301
+function=vessel handler=0 saving image
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:06:51] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 skipping: 0.2620907592773437 > 0.01
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:06:52] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.676602840423584
+function=vessel handler=0 skipping: 0.676602840423584 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:07:01] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6604709625244141
+function=vessel handler=0 skipping: 0.6604709625244141 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:07:04] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.594983696937561
+function=vessel handler=0 skipping: 0.594983696937561 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:07:06] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 skipping: 0.07641815185546857 > 0.01
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:07:07] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.7690334320068359
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:07:09] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 skipping: 0.7690334320068359 < 0.8
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.5956091284751892
+function=vessel handler=0 skipping: 0.5956091284751892 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:07:11] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.8696002960205078
+function=vessel handler=0 saving image
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:07:15] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6760544180870056
+function=vessel handler=0 skipping: 0.6760544180870056 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:07:17] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6321620941162109
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:07:20] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 skipping: 0.6321620941162109 < 0.8
+function=vessel handler=0 skipping: 0.062042236328125 > 0.01
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:07:22] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6760544180870056
+function=vessel handler=0 skipping: 0.6760544180870056 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:07:25] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.2800948917865753
+function=vessel handler=0 skipping: 0.2800948917865753 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:07:30] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.4528944194316864
+function=vessel handler=0 skipping: 0.4528944194316864 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:07:32] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:07:33] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 skipping: 0.12630462646484375 > 0.01
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.5147411823272705
+function=vessel handler=0 skipping: 0.5147411823272705 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:07:39] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 skipping: 0.2750471496582557 > 0.01
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:07:40] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6998364925384521
+function=vessel handler=0 skipping: 0.6998364925384521 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:07:49] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 skipping: 0.05391693115234375 > 0.01
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:07:54] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6365402340888977
+function=vessel handler=0 skipping: 0.6365402340888977 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:08:01] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.5332744121551514
+function=vessel handler=0 skipping: 0.5332744121551514 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:08:08] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 skipping: 0.18712707519547211 > 0.01
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:08:11] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.694615364074707
+function=vessel handler=0 skipping: 0.694615364074707 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:08:13] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.9724738001823425
+function=vessel handler=0 saving image
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:08:18] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:08:19] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 skipping: 0.27620025634765516 > 0.01
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.4306603670120239
+function=vessel handler=0 skipping: 0.4306603670120239 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:08:25] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.9601056575775146
+function=vessel handler=0 saving image
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:08:42] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.7672970294952393
+function=vessel handler=0 skipping: 0.7672970294952393 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:08:43] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.4970177710056305
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:08:47] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 skipping: 0.4970177710056305 < 0.8
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6583712100982666
+function=vessel handler=0 skipping: 0.6583712100982666 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:08:49] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6610321998596191
+function=vessel handler=0 skipping: 0.6610321998596191 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:08:55] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.245792418718338
+function=vessel handler=0 skipping: 0.245792418718338 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:08:58] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6597667336463928
+function=vessel handler=0 skipping: 0.6597667336463928 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:09:04] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.09203503280878067
+function=vessel handler=0 skipping: 0.09203503280878067 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:09:05] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6802260875701904
+function=vessel handler=0 skipping: 0.6802260875701904 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:09:07] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6757293939590454
+function=vessel handler=0 skipping: 0.6757293939590454 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:09:11] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6625676155090332
+function=vessel handler=0 skipping: 0.6625676155090332 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:09:15] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.4450496435165405
+function=vessel handler=0 skipping: 0.4450496435165405 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:09:16] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.5083444714546204
+function=vessel handler=0 skipping: 0.5083444714546204 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:09:24] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 skipping: 0.08858169555663785 > 0.01
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:09:25] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6583712100982666
+function=vessel handler=0 skipping: 0.6583712100982666 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:09:27] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.694615364074707
+function=vessel handler=0 skipping: 0.694615364074707 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:09:29] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6653740406036377
+function=vessel handler=0 skipping: 0.6653740406036377 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:09:33] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.694615364074707
+function=vessel handler=0 skipping: 0.694615364074707 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:09:38] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6597667336463928
+function=vessel handler=0 skipping: 0.6597667336463928 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:09:40] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.694615364074707
+function=vessel handler=0 skipping: 0.694615364074707 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:09:44] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6583712100982666
+function=vessel handler=0 skipping: 0.6583712100982666 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:09:46] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6757293939590454
+function=vessel handler=0 skipping: 0.6757293939590454 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:09:47] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.4679577350616455
+function=vessel handler=0 skipping: 0.4679577350616455 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:09:49] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.9700271487236023
+function=vessel handler=0 saving image
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:09:51] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 skipping: 0.22632598876953125 > 0.01
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:09:52] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6680761575698853
+function=vessel handler=0 skipping: 0.6680761575698853 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:09:58] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6227766871452332
+function=vessel handler=0 skipping: 0.6227766871452332 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:09:59] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:10:00] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 skipping: 0.27620025634765516 > 0.01
+function=vessel handler=0 skipping: 0.03834609985351567 > 0.01
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:10:01] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6604709625244141
+function=vessel handler=0 skipping: 0.6604709625244141 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:10:03] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6604709625244141
+function=vessel handler=0 skipping: 0.6604709625244141 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:10:05] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 skipping: 0.26756576538085364 > 0.01
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:10:08] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 skipping: 0.043990631103515296 > 0.01
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:10:09] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 skipping: 0.1410675048828125 > 0.01
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:10:10] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.9391130208969116
+function=vessel handler=0 saving image
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:10:12] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.9860499501228333
+function=vessel handler=0 saving image
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:10:17] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:10:20] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 skipping: 0.02825927734375 > 0.01
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:10:27] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 skipping: 0.26756576538085364 > 0.01
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6653740406036377
+function=vessel handler=0 skipping: 0.6653740406036377 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:10:34] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.45866239070892334
+function=vessel handler=0 skipping: 0.45866239070892334 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:10:36] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.44972071051597595
+function=vessel handler=0 skipping: 0.44972071051597595 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:10:38] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6747559309005737
+function=vessel handler=0 skipping: 0.6747559309005737 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:10:40] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6625676155090332
+function=vessel handler=0 skipping: 0.6625676155090332 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:10:45] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 skipping: 0.01202392578125 > 0.01
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:10:52] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6673170328140259
+function=vessel handler=0 skipping: 0.6673170328140259 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:10:54] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6673170328140259
+function=vessel handler=0 skipping: 0.6673170328140259 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:10:56] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.7143447399139404
+function=vessel handler=0 skipping: 0.7143447399139404 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:11:01] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.9666812419891357
+function=vessel handler=0 saving image
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:11:03] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.659431517124176
+function=vessel handler=0 skipping: 0.659431517124176 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:11:05] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.5268814563751221
+function=vessel handler=0 skipping: 0.5268814563751221 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:11:07] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.659431517124176
+function=vessel handler=0 skipping: 0.659431517124176 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:11:09] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.7613270878791809
+function=vessel handler=0 skipping: 0.7613270878791809 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:11:10] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 skipping: 0.026730804443360512 > 0.01
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:11:15] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.7785962820053101
+function=vessel handler=0 skipping: 0.7785962820053101 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:11:20] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.4154989719390869
+function=vessel handler=0 skipping: 0.4154989719390869 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:11:22] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:11:23] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 skipping: 0.012659149169921854 > 0.01
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.47843194007873535
+function=vessel handler=0 skipping: 0.47843194007873535 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:11:25] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.7672970294952393
+function=vessel handler=0 skipping: 0.7672970294952393 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:11:27] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6650896072387695
+function=vessel handler=0 skipping: 0.6650896072387695 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:11:34] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.9742407202720642
+function=vessel handler=0 saving image
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:11:38] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.48870599269866943
+function=vessel handler=0 skipping: 0.48870599269866943 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:11:42] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.5912219285964966
+function=vessel handler=0 skipping: 0.5912219285964966 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:11:46] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 skipping: 0.097015380859375 > 0.01
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:11:47] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:11:55] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 skipping: 0.27620025634765516 > 0.01
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6653740406036377
+function=vessel handler=0 skipping: 0.6653740406036377 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:11:57] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6604709625244141
+function=vessel handler=0 skipping: 0.6604709625244141 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:12:00] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.46138066053390503
+function=vessel handler=0 skipping: 0.46138066053390503 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:12:02] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:12:03] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 skipping: 0.29118270874024715 > 0.01
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.5794961452484131
+function=vessel handler=0 skipping: 0.5794961452484131 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:12:05] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 skipping: 0.03420623779297025 > 0.01
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:12:09] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 skipping: 0.032197418212890426 > 0.01
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:12:10] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 skipping: 0.0101470947265625 > 0.01
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:12:13] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.5268814563751221
+function=vessel handler=0 skipping: 0.5268814563751221 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:12:15] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.7464134693145752
+function=vessel handler=0 skipping: 0.7464134693145752 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:12:16] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 skipping: 0.114898681640625 > 0.01
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:12:18] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6497335433959961
+function=vessel handler=0 skipping: 0.6497335433959961 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:12:19] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 skipping: 0.044439086914067526 > 0.01
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:12:21] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6757293939590454
+function=vessel handler=0 skipping: 0.6757293939590454 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:12:24] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.3538833558559418
+function=vessel handler=0 skipping: 0.3538833558559418 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:12:28] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 skipping: 0.021240234375 > 0.01
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:12:34] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.9246280193328857
+function=vessel handler=0 saving image
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:12:36] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.659431517124176
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:12:37] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 skipping: 0.659431517124176 < 0.8
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.41514793038368225
+function=vessel handler=0 skipping: 0.41514793038368225 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:12:41] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6760544180870056
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:12:45] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 skipping: 0.6760544180870056 < 0.8
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.2770479619503021
+function=vessel handler=0 skipping: 0.2770479619503021 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:12:49] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.49456971883773804
+function=vessel handler=0 skipping: 0.49456971883773804 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:12:51] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6612032055854797
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:12:54] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 skipping: 0.6612032055854797 < 0.8
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6760544180870056
+function=vessel handler=0 skipping: 0.6760544180870056 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:12:56] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 skipping: 0.07058029174804663 > 0.01
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:12:57] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.5215378403663635
+function=vessel handler=0 skipping: 0.5215378403663635 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:13:03] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.13034187257289886
+function=vessel handler=0 skipping: 0.13034187257289886 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:13:07] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.40051165223121643
+function=vessel handler=0 skipping: 0.40051165223121643 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:13:09] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6625676155090332
+function=vessel handler=0 skipping: 0.6625676155090332 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:13:15] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6093399524688721
+function=vessel handler=0 skipping: 0.6093399524688721 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:13:18] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6760544180870056
+function=vessel handler=0 skipping: 0.6760544180870056 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:13:26] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.3333151042461395
+function=vessel handler=0 skipping: 0.3333151042461395 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:13:34] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.7672970294952393
+function=vessel handler=0 skipping: 0.7672970294952393 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:13:35] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.695743203163147
+function=vessel handler=0 skipping: 0.695743203163147 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:13:37] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 skipping: 0.06619018554687571 > 0.01
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:13:38] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.7677316069602966
+function=vessel handler=0 skipping: 0.7677316069602966 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:13:47] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.9840998649597168
+function=vessel handler=0 saving image
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:13:48] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6625676155090332
+function=vessel handler=0 skipping: 0.6625676155090332 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:13:50] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6802260875701904
+function=vessel handler=0 skipping: 0.6802260875701904 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:13:52] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 skipping: 0.03353118896484375 > 0.01
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:13:53] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 skipping: 0.03834609985351567 > 0.01
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:13:54] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6020476818084717
+function=vessel handler=0 skipping: 0.6020476818084717 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:13:56] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6650896072387695
+function=vessel handler=0 skipping: 0.6650896072387695 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:14:03] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6604709625244141
+function=vessel handler=0 skipping: 0.6604709625244141 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:14:05] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.9681538343429565
+function=vessel handler=0 saving image
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:14:06] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.9866105318069458
+function=vessel handler=0 saving image
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:14:08] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6680761575698853
+function=vessel handler=0 skipping: 0.6680761575698853 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:14:11] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 skipping: 0.1508331298828125 > 0.01
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:14:14] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 skipping: 0.28365905761721394 > 0.01
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:14:15] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.5133146643638611
+function=vessel handler=0 skipping: 0.5133146643638611 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:14:21] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.1563248187303543
+function=vessel handler=0 skipping: 0.1563248187303543 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:14:22] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.9249783754348755
+function=vessel handler=0 saving image
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:14:24] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6189070343971252
+function=vessel handler=0 skipping: 0.6189070343971252 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:14:26] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:14:27] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 skipping: 0.0896759033203125 > 0.01
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.5878823399543762
+function=vessel handler=0 skipping: 0.5878823399543762 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:14:29] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:14:33] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 skipping: 0.1490624999999711 > 0.01
+function=vessel handler=0 skipping: 0.27620025634765516 > 0.01
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:14:35] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.9724656939506531
+function=vessel handler=0 saving image
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:14:41] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:14:42] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 skipping: 0.17691085815428734 > 0.01
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6597667336463928
+function=vessel handler=0 skipping: 0.6597667336463928 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:14:45] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6409295201301575
+function=vessel handler=0 skipping: 0.6409295201301575 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:14:47] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.659431517124176
+function=vessel handler=0 skipping: 0.659431517124176 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:14:49] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:14:50] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 skipping: 0.11892410278319174 > 0.01
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6020476818084717
+function=vessel handler=0 skipping: 0.6020476818084717 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:14:54] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 skipping: 0.11761230468749989 > 0.01
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:14:56] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.9743975400924683
+function=vessel handler=0 saving image
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:15:00] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6653740406036377
+function=vessel handler=0 skipping: 0.6653740406036377 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:15:01] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6680761575698853
+function=vessel handler=0 skipping: 0.6680761575698853 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:15:03] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 skipping: 0.03595733642578125 > 0.01
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:15:06] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:15:07] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 skipping: 0.05123138427734375 > 0.01
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:15:08] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 skipping: 0.03625869750976565 > 0.01
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.9561077356338501
+function=vessel handler=0 saving image
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:15:10] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.694615364074707
+function=vessel handler=0 skipping: 0.694615364074707 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:15:15] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:15:16] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 skipping: 0.13095840454101415 > 0.01
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6604709625244141
+function=vessel handler=0 skipping: 0.6604709625244141 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:15:18] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:15:21] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 skipping: 0.2154541015625 > 0.01
+function=vessel handler=0 skipping: 0.0483551025390625 > 0.01
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:15:25] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:15:27] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 boat probability: 0.688294529914856
+function=vessel handler=0 skipping: 0.688294529914856 < 0.8
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.9989955425262451
+function=vessel handler=0 saving image
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:15:29] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 skipping: 0.03834609985351567 > 0.01
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:15:44] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.9847050309181213
+function=vessel handler=0 saving image
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:15:48] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.985453188419342
+function=vessel handler=0 saving image
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:15:57] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.659431517124176
+function=vessel handler=0 skipping: 0.659431517124176 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:16:01] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6625676155090332
+function=vessel handler=0 skipping: 0.6625676155090332 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:16:03] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 skipping: 0.03403106689453129 > 0.01
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:16:05] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.694615364074707
+function=vessel handler=0 skipping: 0.694615364074707 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:16:07] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 skipping: 0.03920532226562471 > 0.01
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:16:09] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6673170328140259
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:16:11] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 skipping: 0.6673170328140259 < 0.8
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.5210092067718506
+function=vessel handler=0 skipping: 0.5210092067718506 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:16:14] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 skipping: 0.2852819824218645 > 0.01
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:16:17] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 skipping: 0.03834609985351567 > 0.01
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:16:18] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.9223639965057373
+function=vessel handler=0 saving image
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:16:22] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.48158711194992065
+function=vessel handler=0 skipping: 0.48158711194992065 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:16:24] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 skipping: 0.1869918823241532 > 0.01
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:16:27] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.9693700075149536
+function=vessel handler=0 saving image
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:16:29] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.9258494973182678
+function=vessel handler=0 saving image
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:16:34] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.9865588545799255
+function=vessel handler=0 saving image
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:16:38] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.3113638460636139
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:16:40] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 skipping: 0.3113638460636139 < 0.8
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6653740406036377
+function=vessel handler=0 skipping: 0.6653740406036377 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:16:42] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 skipping: 0.03385162353515625 > 0.01
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:16:43] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 skipping: 0.0301666259765625 > 0.01
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:16:48] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6421708464622498
+function=vessel handler=0 skipping: 0.6421708464622498 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:16:49] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6885075569152832
+function=vessel handler=0 skipping: 0.6885075569152832 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:16:51] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6802260875701904
+function=vessel handler=0 skipping: 0.6802260875701904 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:16:54] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6760544180870056
+function=vessel handler=0 skipping: 0.6760544180870056 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:16:58] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.7464116811752319
+function=vessel handler=0 skipping: 0.7464116811752319 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:17:00] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.5710163116455078
+function=vessel handler=0 skipping: 0.5710163116455078 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:17:04] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6760544180870056
+function=vessel handler=0 skipping: 0.6760544180870056 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:17:08] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6680761575698853
+function=vessel handler=0 skipping: 0.6680761575698853 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:17:10] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6619226932525635
+function=vessel handler=0 skipping: 0.6619226932525635 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:17:12] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 skipping: 0.034271240234375 > 0.01
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:17:15] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.2562084496021271
+function=vessel handler=0 skipping: 0.2562084496021271 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:17:25] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.4441002905368805
+function=vessel handler=0 skipping: 0.4441002905368805 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:17:27] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.4528944194316864
+function=vessel handler=0 skipping: 0.4528944194316864 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:17:32] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.8766226768493652
+function=vessel handler=0 saving image
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:17:34] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6948469877243042
+function=vessel handler=0 skipping: 0.6948469877243042 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:17:36] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6359089016914368
+function=vessel handler=0 skipping: 0.6359089016914368 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:17:38] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6802260875701904
+function=vessel handler=0 skipping: 0.6802260875701904 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:17:41] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.9860499501228333
+function=vessel handler=0 saving image
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:17:43] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6157585978507996
+function=vessel handler=0 skipping: 0.6157585978507996 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:17:44] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6650896072387695
+function=vessel handler=0 skipping: 0.6650896072387695 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:17:50] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:17:52] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 boat probability: 0.5122417211532593
+function=vessel handler=0 skipping: 0.5122417211532593 < 0.8
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.9184476733207703
+function=vessel handler=0 saving image
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:17:55] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.5925556421279907
+function=vessel handler=0 skipping: 0.5925556421279907 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:18:07] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6680761575698853
+function=vessel handler=0 skipping: 0.6680761575698853 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:18:09] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.47665688395500183
+function=vessel handler=0 skipping: 0.47665688395500183 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:18:10] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.672595202922821
+function=vessel handler=0 skipping: 0.672595202922821 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:18:12] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6650896072387695
+function=vessel handler=0 skipping: 0.6650896072387695 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:18:16] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6650896072387695
+function=vessel handler=0 skipping: 0.6650896072387695 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:18:18] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.5228273868560791
+function=vessel handler=0 skipping: 0.5228273868560791 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:18:23] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 skipping: 0.015298309326171895 > 0.01
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:18:29] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.517356276512146
+function=vessel handler=0 skipping: 0.517356276512146 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:18:31] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.4751366078853607
+function=vessel handler=0 skipping: 0.4751366078853607 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:18:33] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6092827320098877
+function=vessel handler=0 skipping: 0.6092827320098877 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:18:38] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.6839562654495239
+function=vessel handler=0 skipping: 0.6839562654495239 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:18:44] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.9598509073257446
+function=vessel handler=0 saving image
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:18:46] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 (512, 512, 3) uint8
+function=vessel handler=0 boat probability: 0.5769830346107483
+function=vessel handler=0 skipping: 0.5769830346107483 < 0.8
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:18:47] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 172.20.0.1 - - [16/Oct/2024 06:18:51] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=0 skipping: 0.03920532226562471 > 0.01
+function=vessel handler=1 GET /health
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:03:33] "GET /health HTTP/1.1" 200 -
+function=vessel handler=1 skipping: 0.0518756103515627 > 0.01
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:05:04] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6164394617080688
+function=vessel handler=1 skipping: 0.6164394617080688 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:05:09] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6673170328140259
+function=vessel handler=1 skipping: 0.6673170328140259 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:05:11] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.694615364074707
+function=vessel handler=1 skipping: 0.694615364074707 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:05:18] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.9755286574363708
+function=vessel handler=1 saving image
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:05:20] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:05:22] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 boat probability: 0.1423269808292389
+function=vessel handler=1 skipping: 0.1423269808292389 < 0.8
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.733292818069458
+function=vessel handler=1 skipping: 0.733292818069458 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:05:24] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 skipping: 0.23784439086916165 > 0.01
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:05:29] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:05:30] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 skipping: 0.20870208740234375 > 0.01
+function=vessel handler=1 skipping: 0.2573710632324949 > 0.01
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:05:31] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.5753593444824219
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:05:33] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 skipping: 0.5753593444824219 < 0.8
+function=vessel handler=1 skipping: 0.27620025634765516 > 0.01
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:05:34] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.7502251863479614
+function=vessel handler=1 skipping: 0.7502251863479614 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:05:36] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6020476818084717
+function=vessel handler=1 skipping: 0.6020476818084717 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:05:38] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.2158934473991394
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:05:41] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 skipping: 0.2158934473991394 < 0.8
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6625676155090332
+function=vessel handler=1 skipping: 0.6625676155090332 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:05:43] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6650896072387695
+function=vessel handler=1 skipping: 0.6650896072387695 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:05:50] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 skipping: 0.07122802734375 > 0.01
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:05:52] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 skipping: 0.03834609985351567 > 0.01
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:06:01] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.43858596682548523
+function=vessel handler=1 skipping: 0.43858596682548523 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:06:03] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.5215190052986145
+function=vessel handler=1 skipping: 0.5215190052986145 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:06:07] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 skipping: 0.03203582763671875 > 0.01
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:06:09] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.4676121771335602
+function=vessel handler=1 skipping: 0.4676121771335602 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:06:14] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.794299304485321
+function=vessel handler=1 skipping: 0.794299304485321 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:06:18] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.694615364074707
+function=vessel handler=1 skipping: 0.694615364074707 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:06:20] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6583712100982666
+function=vessel handler=1 skipping: 0.6583712100982666 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:06:22] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6636292338371277
+function=vessel handler=1 skipping: 0.6636292338371277 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:06:24] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 skipping: 0.02600860595703125 > 0.01
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:06:25] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.5034570693969727
+function=vessel handler=1 skipping: 0.5034570693969727 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:06:27] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6583712100982666
+function=vessel handler=1 skipping: 0.6583712100982666 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:06:29] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 skipping: 0.29616546630859375 > 0.01
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:06:30] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.659431517124176
+function=vessel handler=1 skipping: 0.659431517124176 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:06:35] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6885075569152832
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:06:43] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 skipping: 0.6885075569152832 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:06:44] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 skipping: 0.26756576538085364 > 0.01
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6653740406036377
+function=vessel handler=1 skipping: 0.6653740406036377 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:06:46] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.7985315322875977
+function=vessel handler=1 skipping: 0.7985315322875977 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:06:48] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6950054168701172
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:06:54] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 skipping: 0.6950054168701172 < 0.8
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.659431517124176
+function=vessel handler=1 skipping: 0.659431517124176 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:06:56] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 skipping: 0.04777313232422171 > 0.01
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:06:57] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.21243557333946228
+function=vessel handler=1 skipping: 0.21243557333946228 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:06:59] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6802260875701904
+function=vessel handler=1 skipping: 0.6802260875701904 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:07:02] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.7273982763290405
+function=vessel handler=1 skipping: 0.7273982763290405 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:07:13] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 skipping: 0.039689025878906284 > 0.01
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:07:18] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6657058596611023
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:07:21] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 skipping: 0.6657058596611023 < 0.8
+function=vessel handler=1 skipping: 0.04608154296875 > 0.01
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:07:23] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.2834140658378601
+function=vessel handler=1 skipping: 0.2834140658378601 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:07:27] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 skipping: 0.01897415161132812 > 0.01
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:07:28] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6653740406036377
+function=vessel handler=1 skipping: 0.6653740406036377 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:07:35] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.763944149017334
+function=vessel handler=1 skipping: 0.763944149017334 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:07:37] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6885075569152832
+function=vessel handler=1 skipping: 0.6885075569152832 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:07:42] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.694615364074707
+function=vessel handler=1 skipping: 0.694615364074707 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:07:43] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6583712100982666
+function=vessel handler=1 skipping: 0.6583712100982666 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:07:45] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6673170328140259
+function=vessel handler=1 skipping: 0.6673170328140259 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:07:47] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6760544180870056
+function=vessel handler=1 skipping: 0.6760544180870056 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:07:51] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6193186044692993
+function=vessel handler=1 skipping: 0.6193186044692993 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:07:53] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 skipping: 0.027231445312499988 > 0.01
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:07:55] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 skipping: 0.03834609985351567 > 0.01
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:07:56] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6159616708755493
+function=vessel handler=1 skipping: 0.6159616708755493 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:07:58] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:07:59] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 skipping: 0.08136749267578125 > 0.01
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6757293939590454
+function=vessel handler=1 skipping: 0.6757293939590454 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:08:02] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.48199817538261414
+function=vessel handler=1 skipping: 0.48199817538261414 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:08:04] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.06978004425764084
+function=vessel handler=1 skipping: 0.06978004425764084 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:08:06] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6726815104484558
+function=vessel handler=1 skipping: 0.6726815104484558 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:08:10] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6597667336463928
+function=vessel handler=1 skipping: 0.6597667336463928 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:08:15] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6885075569152832
+function=vessel handler=1 skipping: 0.6885075569152832 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:08:16] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6760544180870056
+function=vessel handler=1 skipping: 0.6760544180870056 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:08:21] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6080958247184753
+function=vessel handler=1 skipping: 0.6080958247184753 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:08:23] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6597667336463928
+function=vessel handler=1 skipping: 0.6597667336463928 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:08:27] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6583712100982666
+function=vessel handler=1 skipping: 0.6583712100982666 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:08:29] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 skipping: 0.024566650390625 > 0.01
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:08:30] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:08:31] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 skipping: 0.017607574462890626 > 0.01
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6839562654495239
+function=vessel handler=1 skipping: 0.6839562654495239 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:08:37] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.48474711179733276
+function=vessel handler=1 skipping: 0.48474711179733276 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:08:39] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 skipping: 0.1681365966796875 > 0.01
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:08:40] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.877568244934082
+function=vessel handler=1 saving image
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:08:45] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.7663713097572327
+function=vessel handler=1 skipping: 0.7663713097572327 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:08:51] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.11096911877393723
+function=vessel handler=1 skipping: 0.11096911877393723 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:08:53] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.7180082201957703
+function=vessel handler=1 skipping: 0.7180082201957703 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:08:56] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6059409976005554
+function=vessel handler=1 skipping: 0.6059409976005554 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:09:00] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6885075569152832
+function=vessel handler=1 skipping: 0.6885075569152832 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:09:02] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.9665250182151794
+function=vessel handler=1 saving image
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:09:09] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6294838190078735
+function=vessel handler=1 skipping: 0.6294838190078735 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:09:13] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.7219425439834595
+function=vessel handler=1 skipping: 0.7219425439834595 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:09:18] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.7540208101272583
+function=vessel handler=1 skipping: 0.7540208101272583 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:09:20] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.694615364074707
+function=vessel handler=1 skipping: 0.694615364074707 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:09:22] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6020476818084717
+function=vessel handler=1 skipping: 0.6020476818084717 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:09:30] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 skipping: 0.051022644042968926 > 0.01
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:09:31] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6597667336463928
+function=vessel handler=1 skipping: 0.6597667336463928 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:09:35] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:09:36] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 skipping: 0.2303009033203125 > 0.01
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6757293939590454
+function=vessel handler=1 skipping: 0.6757293939590454 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:09:42] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6760544180870056
+function=vessel handler=1 skipping: 0.6760544180870056 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:09:54] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:09:56] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 boat probability: 0.6583712100982666
+function=vessel handler=1 skipping: 0.6583712100982666 < 0.8
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.8704761862754822
+function=vessel handler=1 saving image
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:10:07] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6650896072387695
+function=vessel handler=1 skipping: 0.6650896072387695 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:10:14] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6282919645309448
+function=vessel handler=1 skipping: 0.6282919645309448 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:10:16] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.9796435832977295
+function=vessel handler=1 saving image
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:10:19] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.5443497896194458
+function=vessel handler=1 skipping: 0.5443497896194458 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:10:22] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6429039239883423
+function=vessel handler=1 skipping: 0.6429039239883423 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:10:24] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.7476158142089844
+function=vessel handler=1 skipping: 0.7476158142089844 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:10:26] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6802260875701904
+function=vessel handler=1 skipping: 0.6802260875701904 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:10:29] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6680761575698853
+function=vessel handler=1 skipping: 0.6680761575698853 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:10:30] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.9712364673614502
+function=vessel handler=1 saving image
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:10:32] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6564148664474487
+function=vessel handler=1 skipping: 0.6564148664474487 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:10:42] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6118440628051758
+function=vessel handler=1 skipping: 0.6118440628051758 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:10:43] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.659431517124176
+function=vessel handler=1 skipping: 0.659431517124176 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:10:47] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.5812886953353882
+function=vessel handler=1 skipping: 0.5812886953353882 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:10:49] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6604709625244141
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:10:51] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 skipping: 0.6604709625244141 < 0.8
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6885075569152832
+function=vessel handler=1 skipping: 0.6885075569152832 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:10:57] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.580204963684082
+function=vessel handler=1 skipping: 0.580204963684082 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:10:59] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.8514789342880249
+function=vessel handler=1 saving image
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:11:12] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.781623363494873
+function=vessel handler=1 skipping: 0.781623363494873 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:11:14] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 skipping: 0.17174514770508106 > 0.01
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:11:16] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.5110747814178467
+function=vessel handler=1 skipping: 0.5110747814178467 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:11:18] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6707499027252197
+function=vessel handler=1 skipping: 0.6707499027252197 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:11:29] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6650896072387695
+function=vessel handler=1 skipping: 0.6650896072387695 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:11:30] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6760544180870056
+function=vessel handler=1 skipping: 0.6760544180870056 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:11:32] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6067659854888916
+function=vessel handler=1 skipping: 0.6067659854888916 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:11:36] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 skipping: 0.05811309814453125 > 0.01
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:11:39] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.694615364074707
+function=vessel handler=1 skipping: 0.694615364074707 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:11:41] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.5907695293426514
+function=vessel handler=1 skipping: 0.5907695293426514 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:11:44] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:11:48] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 skipping: 0.021693267822265647 > 0.01
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6885075569152832
+function=vessel handler=1 skipping: 0.6885075569152832 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:11:50] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.4837442934513092
+function=vessel handler=1 skipping: 0.4837442934513092 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:11:52] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.4891485273838043
+function=vessel handler=1 skipping: 0.4891485273838043 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:11:54] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 skipping: 0.1847227478027346 > 0.01
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:11:58] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.7110615968704224
+function=vessel handler=1 skipping: 0.7110615968704224 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:12:07] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:12:08] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 skipping: 0.03834609985351567 > 0.01
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.9738976359367371
+function=vessel handler=1 saving image
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:12:12] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.16758526861667633
+function=vessel handler=1 skipping: 0.16758526861667633 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:12:22] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6598911285400391
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:12:26] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 skipping: 0.6598911285400391 < 0.8
+function=vessel handler=1 skipping: 0.26756576538085364 > 0.01
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:12:29] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.9110955595970154
+function=vessel handler=1 saving image
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:12:31] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.49774304032325745
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:12:33] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 skipping: 0.49774304032325745 < 0.8
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.45847856998443604
+function=vessel handler=1 skipping: 0.45847856998443604 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:12:39] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.4134247899055481
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:12:43] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 skipping: 0.4134247899055481 < 0.8
+function=vessel handler=1 skipping: 0.02033233642578125 > 0.01
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:12:46] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 skipping: 0.08288848876953099 > 0.01
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:12:47] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6673170328140259
+function=vessel handler=1 skipping: 0.6673170328140259 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:12:52] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6839562654495239
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:12:59] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 skipping: 0.6839562654495239 < 0.8
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6013288497924805
+function=vessel handler=1 skipping: 0.6013288497924805 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:13:01] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.4355606734752655
+function=vessel handler=1 skipping: 0.4355606734752655 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:13:05] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:13:06] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 skipping: 0.04800018310546849 > 0.01
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.644092857837677
+function=vessel handler=1 skipping: 0.644092857837677 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:13:11] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.975136399269104
+function=vessel handler=1 saving image
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:13:13] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 skipping: 0.27620025634765516 > 0.01
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:13:16] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 skipping: 0.02194900512695314 > 0.01
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:13:19] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6650896072387695
+function=vessel handler=1 skipping: 0.6650896072387695 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:13:21] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6597667336463928
+function=vessel handler=1 skipping: 0.6597667336463928 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:13:22] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6597667336463928
+function=vessel handler=1 skipping: 0.6597667336463928 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:13:24] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6680761575698853
+function=vessel handler=1 skipping: 0.6680761575698853 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:13:28] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.9381194710731506
+function=vessel handler=1 saving image
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:13:30] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.21574124693870544
+function=vessel handler=1 skipping: 0.21574124693870544 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:13:32] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.7120794057846069
+function=vessel handler=1 skipping: 0.7120794057846069 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:13:40] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6604709625244141
+function=vessel handler=1 skipping: 0.6604709625244141 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:13:42] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 skipping: 0.03834609985351567 > 0.01
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:13:43] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6583712100982666
+function=vessel handler=1 skipping: 0.6583712100982666 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:13:45] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.692613422870636
+function=vessel handler=1 skipping: 0.692613422870636 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:13:58] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.7029441595077515
+function=vessel handler=1 skipping: 0.7029441595077515 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:14:00] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 skipping: 0.03834609985351567 > 0.01
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:14:01] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 skipping: 0.1922727966308524 > 0.01
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:14:09] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.4724656641483307
+function=vessel handler=1 skipping: 0.4724656641483307 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:14:13] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.7147213220596313
+function=vessel handler=1 skipping: 0.7147213220596313 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:14:17] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.5883100032806396
+function=vessel handler=1 skipping: 0.5883100032806396 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:14:19] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:14:31] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 boat probability: 0.6885075569152832
+function=vessel handler=1 skipping: 0.6885075569152832 < 0.8
+function=vessel handler=1 skipping: 0.09637649536132924 > 0.01
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:14:32] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 skipping: 0.04535675048828125 > 0.01
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:14:34] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:14:37] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 boat probability: 0.5349115133285522
+function=vessel handler=1 skipping: 0.5349115133285522 < 0.8
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.5203153491020203
+function=vessel handler=1 skipping: 0.5203153491020203 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:14:39] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6680761575698853
+function=vessel handler=1 skipping: 0.6680761575698853 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:14:44] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6673170328140259
+function=vessel handler=1 skipping: 0.6673170328140259 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:14:52] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 skipping: 0.23360473632811873 > 0.01
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:14:55] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6802260875701904
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:14:58] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 skipping: 0.6802260875701904 < 0.8
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.36322134733200073
+function=vessel handler=1 skipping: 0.36322134733200073 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:15:05] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6583712100982666
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:15:12] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 skipping: 0.6583712100982666 < 0.8
+function=vessel handler=1 skipping: 0.06690597534180356 > 0.01
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:15:13] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.5331767797470093
+function=vessel handler=1 skipping: 0.5331767797470093 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:15:19] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.9828939437866211
+function=vessel handler=1 saving image
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:15:22] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6680761575698853
+function=vessel handler=1 skipping: 0.6680761575698853 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:15:24] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.659431517124176
+function=vessel handler=1 skipping: 0.659431517124176 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:15:31] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6885075569152832
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:15:33] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 skipping: 0.6885075569152832 < 0.8
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.7435975074768066
+function=vessel handler=1 skipping: 0.7435975074768066 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:15:34] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.707953691482544
+function=vessel handler=1 skipping: 0.707953691482544 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:15:36] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 skipping: 0.1632131958007813 > 0.01
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:15:37] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6760544180870056
+function=vessel handler=1 skipping: 0.6760544180870056 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:15:39] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6225276589393616
+function=vessel handler=1 skipping: 0.6225276589393616 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:15:41] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.2834140658378601
+function=vessel handler=1 skipping: 0.2834140658378601 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:15:43] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6625676155090332
+function=vessel handler=1 skipping: 0.6625676155090332 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:15:46] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:15:49] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 skipping: 0.0206146240234375 > 0.01
+function=vessel handler=1 skipping: 0.06299865722656235 > 0.01
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:15:50] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 skipping: 0.26756576538085364 > 0.01
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:15:51] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6597667336463928
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:15:53] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 skipping: 0.6597667336463928 < 0.8
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:15:54] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 boat probability: 0.659431517124176
+function=vessel handler=1 skipping: 0.659431517124176 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:15:56] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 skipping: 0.03834609985351567 > 0.01
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6839562654495239
+function=vessel handler=1 skipping: 0.6839562654495239 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:15:59] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 skipping: 0.2596423339843958 > 0.01
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:16:04] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:16:08] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 skipping: 0.14171600341796875 > 0.01
+function=vessel handler=1 skipping: 0.0462799072265625 > 0.01
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:16:12] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.42583340406417847
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:16:16] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 skipping: 0.42583340406417847 < 0.8
+function=vessel handler=1 skipping: 0.13076278686520487 > 0.01
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:16:19] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 skipping: 0.2009704589843728 > 0.01
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:16:20] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.5197263360023499
+function=vessel handler=1 skipping: 0.5197263360023499 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:16:26] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6572146415710449
+function=vessel handler=1 skipping: 0.6572146415710449 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:16:31] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6598911285400391
+function=vessel handler=1 skipping: 0.6598911285400391 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:16:32] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6680761575698853
+function=vessel handler=1 skipping: 0.6680761575698853 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:16:36] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:16:44] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 skipping: 0.26756576538085364 > 0.01
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6673170328140259
+function=vessel handler=1 skipping: 0.6673170328140259 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:16:46] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 skipping: 0.26756576538085364 > 0.01
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:16:47] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 skipping: 0.26756576538085364 > 0.01
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:16:52] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.14940866827964783
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:16:56] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 skipping: 0.14940866827964783 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:17:01] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 skipping: 0.012499694824218614 > 0.01
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6020476818084717
+function=vessel handler=1 skipping: 0.6020476818084717 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:17:03] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.5476955771446228
+function=vessel handler=1 skipping: 0.5476955771446228 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:17:06] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6275776624679565
+function=vessel handler=1 skipping: 0.6275776624679565 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:17:14] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6173934936523438
+function=vessel handler=1 skipping: 0.6173934936523438 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:17:17] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.38314110040664673
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:17:18] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 skipping: 0.38314110040664673 < 0.8
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6597667336463928
+function=vessel handler=1 skipping: 0.6597667336463928 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:17:20] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 skipping: 0.263706359863233 > 0.01
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:17:21] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6597667336463928
+function=vessel handler=1 skipping: 0.6597667336463928 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:17:23] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6735844612121582
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:17:29] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 skipping: 0.6735844612121582 < 0.8
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.7123779654502869
+function=vessel handler=1 skipping: 0.7123779654502869 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:17:30] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:17:39] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 skipping: 0.018040618896483715 > 0.01
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.22612792253494263
+function=vessel handler=1 skipping: 0.22612792253494263 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:17:46] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.45847856998443604
+function=vessel handler=1 skipping: 0.45847856998443604 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:17:48] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6608180403709412
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:17:54] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 skipping: 0.6608180403709412 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:17:57] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 skipping: 0.27620025634765516 > 0.01
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.5403820276260376
+function=vessel handler=1 skipping: 0.5403820276260376 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:17:58] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6020476818084717
+function=vessel handler=1 skipping: 0.6020476818084717 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:18:00] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6790169477462769
+function=vessel handler=1 skipping: 0.6790169477462769 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:18:02] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 skipping: 0.1740798950196003 > 0.01
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:18:03] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.5554513931274414
+function=vessel handler=1 skipping: 0.5554513931274414 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:18:05] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6088066101074219
+function=vessel handler=1 skipping: 0.6088066101074219 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:18:14] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6802260875701904
+function=vessel handler=1 skipping: 0.6802260875701904 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:18:20] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.544612467288971
+function=vessel handler=1 skipping: 0.544612467288971 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:18:22] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.9716150164604187
+function=vessel handler=1 saving image
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:18:25] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.8836069107055664
+function=vessel handler=1 saving image
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:18:27] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 skipping: 0.27620025634765516 > 0.01
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:18:28] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.7545284032821655
+function=vessel handler=1 skipping: 0.7545284032821655 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:18:35] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.6447347402572632
+function=vessel handler=1 skipping: 0.6447347402572632 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:18:36] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.7672970294952393
+function=vessel handler=1 skipping: 0.7672970294952393 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:18:40] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.9876294732093811
+function=vessel handler=1 saving image
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:18:42] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 (512, 512, 3) uint8
+function=vessel handler=1 boat probability: 0.684240460395813
+function=vessel handler=1 skipping: 0.684240460395813 < 0.8
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:18:49] "POST /fn HTTP/1.1" 200 -
+function=vessel handler=1 skipping: 0.06319427490234375 > 0.01
+function=vessel handler=1 172.20.0.1 - - [16/Oct/2024 06:18:50] "POST /fn HTTP/1.1" 200 -
+

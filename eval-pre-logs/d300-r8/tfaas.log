@@ -1,0 +1,1367 @@
+[tf] 2024/10/16 13:16:13.375201 main.go:75: using docker backend
+[tf] 2024/10/16 13:16:13.375385 main.go:80: This docker backend supports the following runtimes:
+  - python3
+  - tflite
+[tf] 2024/10/16 13:16:13.488789 handler.go:75: creating runtime cache directory /tmp/tfaas-a29cdbe2044c0fac7155e584aef5a348
+[tf] 2024/10/16 13:16:13.602671 handler.go:106: created runtime cache directory /tmp/tfaas-a29cdbe2044c0fac7155e584aef5a348
+[tf] 2024/10/16 13:16:13.602770 main.go:89: stateswitching enabled: apiHost: http://192.168.2.5:7000
+[tf] 2024/10/16 13:16:13.602844 main.go:104: starting rproxy http server on :7002
+[tf] 2024/10/16 13:16:13.602863 main.go:107: started rproxy
+[tf] 2024/10/16 13:16:13.603298 main.go:134: starting management HTTP server on :7003
+[tf] 2024/10/16 13:16:13.603682 endpoint.go:56: Starting HTTP server on :7002
+[tf] 2024/10/16 13:16:13.604563 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:16:13.845313 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:14.237510 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:14.604167 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:16:14.606013 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:16:14.652754 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:15.042992 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:15.459889 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:15.604413 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:16:15.607941 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:16:15.866303 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:16.252027 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:16.605964 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:16:16.610111 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:16:16.656074 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:17.062546 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:17.453702 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:17.606334 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:16:17.611283 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:16:17.847511 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:18.250886 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:18.606619 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:16:18.612840 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:16:18.661934 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:19.052779 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:19.454458 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:19.606959 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:16:19.614025 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:16:19.855047 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:20.255377 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:20.607245 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:16:20.615191 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:16:20.648605 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:21.055780 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:21.458992 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:21.608019 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:16:21.621923 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:16:21.857524 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:22.257689 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:22.608293 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:16:22.623895 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:16:22.654781 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:23.053611 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:23.454109 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:23.609781 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:16:23.625784 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:16:23.854308 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:24.251847 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:24.610659 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:16:24.628210 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:16:24.651011 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:25.054596 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:25.452813 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:25.611373 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:16:25.629421 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:16:25.856532 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:26.257175 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:26.612108 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:16:26.631847 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:16:26.658752 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:27.062496 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:27.458821 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:27.612373 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:16:27.633534 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:16:27.852293 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:28.254291 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:28.613045 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:16:28.636175 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:16:28.659023 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:29.054578 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:29.458152 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:29.613869 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:16:29.638074 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:16:29.857631 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:30.253759 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:30.614486 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:16:30.639488 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:16:30.654723 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:31.058131 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:31.454382 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:31.615095 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:16:31.641088 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:16:31.854916 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:32.259105 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:32.615958 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:16:32.643288 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:16:32.651229 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:33.057944 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:33.449445 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:33.617082 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:16:33.645014 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:16:33.853478 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:34.243925 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:34.617748 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:16:34.647403 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:16:34.653022 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:35.056023 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:35.456571 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:35.618164 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:16:35.649284 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:16:35.857389 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:36.259252 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:36.619176 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:16:36.650828 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:16:36.653148 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:37.054692 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:37.456188 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:37.619881 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:16:37.652022 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:16:37.853941 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:38.251902 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:38.620768 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:16:38.655317 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:16:38.656431 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:39.064441 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:39.453400 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:39.620945 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:16:39.657048 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:16:39.853499 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:40.256167 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:40.621636 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:16:40.652284 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:40.658676 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:16:41.052770 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:41.458852 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:41.622527 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:16:41.660758 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:16:41.856956 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:42.253201 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:42.626467 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:16:42.650563 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:42.661988 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:16:43.052485 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:43.452182 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:43.627837 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:16:43.663331 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:16:43.858250 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:44.236850 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:44.628725 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:16:44.640163 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:44.665065 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:16:45.044284 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:45.436534 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:45.628954 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:16:45.666813 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:16:45.837458 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:46.237030 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:46.629409 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:16:46.637669 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:46.667550 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:16:47.036379 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:47.439337 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:47.629713 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:16:47.668940 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:16:47.843092 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:48.235581 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:48.629904 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:16:48.636179 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:48.670168 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:16:49.048931 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:49.449863 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:49.630551 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:16:49.671596 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:16:49.853768 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:50.250316 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:50.631308 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:16:50.653528 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:50.673011 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:16:51.058456 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:51.451851 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:51.632532 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:16:51.674713 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:16:51.852357 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:52.252191 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:52.633022 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:16:52.651747 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:52.676092 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:16:53.053114 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:53.445253 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:53.633999 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:16:53.678320 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:16:53.855182 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:54.253592 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:54.634339 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:16:54.648529 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:54.680081 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:16:55.049251 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:55.453346 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:55.635072 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:16:55.682423 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:16:55.853643 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:56.256562 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:56.635427 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:16:56.669463 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:56.683913 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:16:57.052567 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:57.452906 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:57.650512 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:16:57.685630 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:16:57.852054 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:58.253300 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:58.651508 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:16:58.653073 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:58.687648 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:16:59.053207 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:59.454758 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:16:59.652633 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:16:59.689573 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:16:59.852566 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:00.253043 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:00.651220 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:00.653783 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:17:00.691080 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:17:01.052739 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:01.448112 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:01.654589 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:17:01.692842 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:17:01.854848 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:02.253659 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:02.644648 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:02.655067 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:17:02.759117 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:17:03.053446 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:03.460532 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:03.656264 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:17:03.760752 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:17:03.852304 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:04.252807 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:04.647670 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:04.657094 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:17:04.762206 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:17:05.051165 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:05.453555 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:05.657339 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:17:05.763573 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:17:05.857893 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:06.253016 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:06.654078 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:06.657555 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:17:06.764515 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:17:07.050105 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:07.452193 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:07.657868 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:17:07.766261 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:17:07.849397 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:08.250970 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:08.651626 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:08.659172 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:17:08.767375 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:17:09.050404 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:09.454132 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:09.659832 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:17:09.769211 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:17:09.852927 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:10.250089 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:10.652801 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:10.660327 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:17:10.770438 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:17:11.055113 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:11.453536 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:11.661349 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:17:11.771726 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:17:11.853514 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:12.262872 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:12.647280 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:12.661796 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:17:12.773077 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:17:13.050087 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:13.453830 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:13.662484 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:17:13.774783 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:17:13.854127 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:14.253447 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:14.652810 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:14.663407 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:17:14.776691 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:17:15.060226 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:15.446618 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:15.664268 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:17:15.778314 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:17:15.852441 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:16.252820 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:16.649164 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:16.664683 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:17:16.779704 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:17:17.055658 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:17.486236 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:17.664906 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:17:17.781355 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:17:17.854150 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:18.252613 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:18.652322 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:18.665873 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:17:18.783291 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:17:19.052429 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:19.451243 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:19.666976 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:17:19.784675 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:17:19.856074 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:20.253670 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:20.652298 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:20.667859 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:17:20.786250 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:17:21.061142 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:21.452169 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:21.668991 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:17:21.788146 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:17:21.852219 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:22.251434 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:22.663369 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:22.669998 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:17:22.789433 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:17:23.052038 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:23.457519 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:23.670227 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:17:23.791569 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:17:23.855144 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:24.276937 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:24.647142 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:24.670635 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:17:24.792738 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:17:25.054538 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:25.452617 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:25.671368 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:17:25.794746 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:17:25.853876 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:26.257076 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:26.653137 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:26.671604 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:17:26.796766 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:17:27.058111 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:27.452320 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:27.671954 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:17:27.798369 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:17:27.851341 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:28.244218 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:28.651985 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:28.672216 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:17:28.800226 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:17:29.057524 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:29.454260 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:29.673007 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:17:29.802480 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:17:29.854259 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:30.247178 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:30.651492 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:30.673265 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:17:30.804249 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:17:31.051957 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:31.451360 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:31.674248 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:17:31.806022 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:17:31.850456 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:32.258617 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:32.653973 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:32.675452 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:17:32.807635 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:17:33.056001 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:33.453706 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:33.676403 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:17:33.809743 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:17:33.857907 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:34.250752 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:34.648924 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:34.677380 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:17:34.811390 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:17:35.048288 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:35.457329 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:35.677970 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:17:35.813251 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:17:35.854942 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:36.252183 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:36.656752 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:36.678360 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:17:36.814386 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:17:37.052923 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:37.452211 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:37.678981 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:17:37.817273 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:17:37.853604 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:38.482577 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:38.647125 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:38.679724 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:17:38.818864 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:17:39.057131 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:39.451784 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:39.680527 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:17:39.820943 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:17:39.855734 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:40.252634 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:40.649749 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:40.681191 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:17:40.822399 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:17:41.047848 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:41.456973 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:41.682140 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:17:41.828547 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:17:41.852136 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:42.246684 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:42.656981 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:42.682755 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:17:42.829860 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:17:43.055234 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:43.452562 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:43.683364 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:17:43.831804 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:17:43.855066 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:44.253902 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:44.646228 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:44.683628 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:17:44.833661 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:17:45.064603 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:45.453501 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:45.684226 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:17:45.835684 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:17:45.854454 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:46.249115 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:46.646769 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:46.685267 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:17:46.837364 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:17:47.055075 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:47.459209 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:47.685852 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:17:47.839752 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:17:47.855967 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:48.266371 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:48.652568 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:48.686650 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:17:48.840971 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:17:49.053932 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:49.453725 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:49.687545 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:17:49.843095 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:17:49.853661 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:50.246086 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:50.653111 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:50.688710 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:17:50.844811 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:17:51.047227 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:51.454739 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:51.689428 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:17:51.846913 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:17:51.857040 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:52.255322 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:52.654042 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:52.689592 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:17:52.849011 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:17:53.057962 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:53.468114 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:53.689905 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:17:53.851359 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:17:53.857672 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:54.254022 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:54.655184 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:54.690764 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:17:54.853171 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:17:55.052876 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:55.453832 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:55.691725 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:17:55.854938 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:55.855515 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:17:56.254264 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:56.647325 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:56.692843 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:17:56.857151 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:17:57.059880 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:57.444423 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:57.693035 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:17:57.852455 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:57.859019 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:17:58.257439 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:58.662991 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:58.693867 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:17:58.860873 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:17:59.053334 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:59.452630 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:59.694536 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:17:59.854710 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:17:59.862144 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:18:00.254954 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:00.653497 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:00.694945 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:18:00.864360 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:18:01.055369 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:01.454092 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:01.695905 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:18:01.853942 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:01.866594 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:18:02.253994 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:02.655274 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:02.696794 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:18:02.867849 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:18:03.059949 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:03.453241 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:03.698010 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:18:03.854091 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:03.869668 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:18:04.253899 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:04.654813 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:04.698320 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:18:04.871620 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:18:05.056296 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:05.456717 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:05.699468 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:18:05.855551 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:05.873105 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:18:06.250432 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:06.647462 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:06.699932 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:18:06.875210 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:18:07.054050 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:07.457613 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:07.700257 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:18:07.852435 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:07.876717 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:18:08.255307 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:08.653214 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:08.700901 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:18:08.878164 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:18:09.064092 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:09.448651 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:09.701296 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:18:09.855904 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:09.896396 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:18:10.253884 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:10.654745 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:10.702251 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:18:10.897439 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:18:11.053825 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:11.459643 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:11.703484 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:18:11.857823 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:11.899380 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:18:12.253996 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:12.651445 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:12.703943 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:18:12.901067 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:18:13.052705 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:13.453425 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:13.704197 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:18:13.857587 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:13.902977 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:18:14.251291 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:14.655668 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:14.705166 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:18:14.904689 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:18:15.061413 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:15.453275 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:15.706013 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:18:15.853576 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:15.906123 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:18:16.253324 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:16.644841 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:16.706213 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:18:16.907207 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:18:17.054876 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:17.459389 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:17.707243 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:18:17.859929 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:17.908415 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:18:18.254613 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:18.654062 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:18.707687 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:18:18.910148 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:18:19.052480 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:19.455181 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:19.707882 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:18:19.853558 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:19.911814 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:18:20.249994 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:20.651160 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:20.708655 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:18:20.912948 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:18:21.065649 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:21.452808 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:21.709512 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:18:21.852505 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:21.914539 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:18:22.254507 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:22.653962 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:22.710641 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:18:22.915957 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:18:23.053899 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:23.454417 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:23.711067 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:18:23.853714 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:23.920859 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:18:24.264318 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:24.653367 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:24.711829 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:18:24.922085 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:18:25.055212 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:25.453152 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:25.712935 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:18:25.849920 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:25.923466 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:18:26.253311 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:26.650973 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:26.713424 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:18:26.924834 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:18:27.059092 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:27.458017 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:27.713777 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:18:27.856527 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:27.925754 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:18:28.252659 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:28.653503 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:28.714084 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:18:28.927524 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:18:29.052928 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:29.471911 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:29.714682 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:18:29.856013 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:29.929583 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:18:30.252530 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:30.653603 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:30.715121 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:18:30.931621 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:18:31.052711 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:31.454949 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:31.715700 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:18:31.853084 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:31.933694 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:18:32.252885 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:32.649667 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:32.716604 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:18:32.934934 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:18:33.049081 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:33.453160 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:33.716873 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:18:33.853559 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:33.936962 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:18:34.252786 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:34.662829 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:34.717416 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:18:34.938606 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:18:35.051781 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:35.454790 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:35.718538 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:18:35.860679 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:35.940338 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:18:36.266039 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:36.653547 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:36.719242 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:18:36.941434 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:18:37.053739 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:37.455077 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:37.719877 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:18:37.853528 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:37.943119 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:18:38.255983 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:38.649836 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:38.720355 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:18:38.944859 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:18:39.052475 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:39.452442 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:39.721194 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:18:39.855893 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:39.946167 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:18:40.250422 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:40.649418 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:40.722061 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:18:40.947506 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:18:41.055511 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:41.460355 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:41.723114 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:18:41.854264 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:41.948626 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:18:42.255533 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:42.653721 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:42.724284 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:18:42.950697 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:18:43.049571 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:43.455387 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:43.725183 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:18:43.856348 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:43.951699 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:18:44.254680 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:44.649118 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:44.725650 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:18:44.952872 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:18:45.045924 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:45.453810 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:45.726580 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:18:45.854599 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:45.954426 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:18:46.255564 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:46.649981 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:46.727566 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:18:46.956073 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:18:47.057345 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:47.455404 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:47.728257 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:18:47.856805 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:47.957342 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:18:48.253425 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:48.648675 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:48.729232 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:18:48.958525 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:18:49.054459 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:49.454365 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:49.730097 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:18:49.852854 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:49.960185 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:18:50.253546 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:50.655301 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:50.731022 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:18:50.961288 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:18:51.060014 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:51.457908 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:51.731670 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:18:51.852609 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:51.963145 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:18:52.249438 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:52.656428 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:52.731936 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:18:52.964377 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:18:53.052443 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:53.447068 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:53.732761 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:18:53.859504 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:53.966375 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:18:54.256414 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:54.652944 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:54.733602 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:18:54.968168 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:18:55.054867 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:55.464024 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:55.734815 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:18:55.854586 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:55.970112 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:18:56.254450 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:56.655626 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:56.735169 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:18:56.971412 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:18:57.059880 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:57.449773 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:57.735463 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:18:57.850708 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:57.972587 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:18:58.250782 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:58.654448 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:58.736063 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:18:58.974511 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:18:59.052165 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:59.457678 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:59.736800 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:18:59.853275 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:18:59.976001 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:19:00.252702 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:00.664523 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:00.737008 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:19:00.977221 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:19:01.057729 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:01.453279 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:01.737708 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:19:01.854106 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:01.978976 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:19:02.246305 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:02.654715 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:02.738566 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:19:02.981112 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:19:03.065744 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:03.453153 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:03.738882 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:19:03.849227 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:03.982732 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:19:04.252717 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:04.654554 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:04.739085 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:19:04.984510 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:19:05.054148 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:05.453491 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:05.739371 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:19:05.858231 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:05.985558 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:19:06.254128 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:06.653311 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:06.740030 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:19:06.987438 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:19:07.053631 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:07.453319 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:07.741042 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:19:07.851384 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:07.988824 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:19:08.249101 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:08.653616 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:08.742208 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:19:08.990528 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:19:09.058488 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:09.452777 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:09.742549 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:19:09.852077 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:09.992646 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:19:10.253773 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:10.653453 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:10.743044 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:19:10.994482 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:19:11.111343 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:11.457373 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:11.744172 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:19:11.862480 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:11.995927 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:19:12.252994 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:12.653682 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:12.744486 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:19:12.997855 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:19:13.053639 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:13.451641 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:13.745448 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:19:13.856195 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:13.999601 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:19:14.244737 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:14.658867 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:14.746594 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:19:15.000886 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:19:15.067090 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:15.454410 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:15.747201 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:19:15.852444 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:16.001758 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:19:16.262462 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:16.649037 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:16.747444 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:19:17.004098 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:19:17.053537 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:17.456766 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:17.748488 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:19:17.855590 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:18.006505 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:19:18.251549 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:18.654372 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:18.748937 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:19:19.008268 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:19:19.054322 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:19.453261 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:19.750097 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:19:19.854717 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:20.010116 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:19:20.254776 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:20.648376 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:20.751120 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:19:21.011387 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:19:21.059428 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:21.462718 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:21.751446 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:19:21.855708 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:22.013054 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:19:22.253474 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:22.650411 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:22.752205 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:19:23.014593 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:19:23.047488 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:23.455160 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:23.752973 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:19:23.857993 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:24.016555 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:19:24.244114 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:24.654604 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:24.753098 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:19:25.018887 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:19:25.054647 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:25.455690 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:25.753339 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:19:25.853155 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:26.020664 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:19:26.248251 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:26.704277 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:26.753856 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:19:27.028518 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:19:27.055768 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:27.452246 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:27.755037 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:19:27.854060 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:28.029396 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:19:28.252770 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:28.652364 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:28.755713 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:19:29.030917 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:19:29.049660 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:29.452951 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:29.756868 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:19:29.854991 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:30.032603 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:19:30.253694 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:30.654119 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:30.757912 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:19:31.034618 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:19:31.056517 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:31.452828 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:31.758695 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:19:31.853472 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:32.035963 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:19:32.252771 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:32.654599 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:32.759515 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:19:33.038575 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:19:33.058835 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:33.445956 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:33.759759 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:19:33.854555 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:34.040547 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:19:34.254509 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:34.656437 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:34.759978 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:19:35.043356 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:19:35.050423 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:35.453959 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:35.760842 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:19:35.861189 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:36.045161 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:19:36.254638 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:36.654296 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:36.761893 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:19:37.047466 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:19:37.063897 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:37.456943 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:37.762842 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:19:37.853662 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:38.049259 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:19:38.254909 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:38.651961 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:38.763537 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:19:39.052009 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:19:39.056834 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:39.454132 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:39.763880 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:19:39.855428 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:40.054054 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:19:40.253170 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:40.652354 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:40.764914 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:19:41.052453 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:41.055777 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:19:41.457794 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:41.765756 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:19:41.858326 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:42.057634 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:19:42.256959 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:42.654779 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:42.766458 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:19:43.045532 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:43.106846 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:19:43.454113 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:43.766765 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:19:43.853105 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:44.108962 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:19:44.253896 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:44.652581 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:44.767121 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:19:45.054766 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:45.110393 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:19:45.451594 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:45.767368 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:19:45.853599 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:46.112345 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:19:46.253984 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:46.652746 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:46.767632 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:19:47.059886 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:47.114741 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:19:47.456892 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:47.768739 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:19:47.854276 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:48.116100 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:19:48.249548 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:48.653197 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:48.769849 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:19:49.050807 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:49.117141 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:19:49.454807 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:49.770644 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:19:49.854298 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:50.119121 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:19:50.254742 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:50.653525 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:50.771188 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:19:51.060570 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:51.121307 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:19:51.453648 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:51.771411 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:19:51.855939 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:52.122677 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:19:52.253769 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:52.654754 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:52.772550 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:19:53.052188 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:53.124795 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:19:53.455886 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:53.773674 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:19:53.852611 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:54.126705 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:19:54.256129 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:54.655336 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:54.774905 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:19:55.056213 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:55.128633 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:19:55.456595 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:55.775294 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:19:55.855011 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:56.130778 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:19:56.253809 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:56.656906 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:56.776143 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:19:57.059738 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:57.132137 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:19:57.463545 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:57.777349 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:19:57.852289 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:58.133988 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:19:58.252533 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:58.653287 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:58.777889 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:19:59.045637 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:59.136474 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:19:59.453666 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:19:59.778254 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:19:59.856819 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:00.138644 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:20:00.255195 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:00.649037 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:00.778591 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:20:01.052993 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:01.140412 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:20:01.451753 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:01.779590 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:20:01.854240 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:02.141995 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:20:02.256251 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:02.687442 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:02.780062 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:20:03.052264 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:03.143656 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:20:03.454076 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:03.780972 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:20:03.854471 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:04.145262 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:20:04.254375 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:04.655483 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:04.782153 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:20:05.051845 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:05.146649 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:20:05.456784 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:05.782567 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:20:05.855080 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:06.149078 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:20:06.255067 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:06.652903 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:06.783546 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:20:07.056283 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:07.150857 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:20:07.453047 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:07.783839 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:20:07.854438 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:08.152123 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:20:08.254459 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:08.653573 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:08.784139 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:20:09.058411 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:09.154035 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:20:09.452253 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:09.785030 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:20:09.851326 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:10.155904 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:20:10.251996 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:10.651933 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:10.785648 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:20:11.046431 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:11.158341 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:20:11.459400 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:11.786159 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:20:11.856979 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:12.159762 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:20:12.254983 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:12.649326 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:12.787048 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:20:13.054148 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:13.161610 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:20:13.452794 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:13.787724 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:20:13.853194 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:14.162907 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:20:14.249951 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:14.646589 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:14.788234 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:20:15.058437 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:15.164803 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:20:15.453951 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:15.788872 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:20:15.851953 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:16.166862 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:20:16.254599 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:16.652631 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:16.789191 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:20:17.052986 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:17.168536 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:20:17.454890 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:17.789652 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:20:17.864511 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:18.170075 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:20:18.255636 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:18.656430 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:18.789961 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:20:19.047349 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:19.171776 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:20:19.447478 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:19.790238 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:20:19.853936 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:20.173951 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:20:20.253835 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:20.651583 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:20.791201 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:20:21.058080 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:21.175579 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:20:21.453417 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:21.792337 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:20:21.852571 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:22.177363 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:20:22.254125 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:22.652224 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:22.793072 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:20:23.059307 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:23.179410 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:20:23.454700 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:23.793368 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:20:23.854267 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:24.181001 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:20:24.253817 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:24.655559 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:24.794246 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:20:25.050023 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:25.182619 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:20:25.455240 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:25.795176 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:20:25.852356 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:26.184216 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:20:26.255399 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:26.653070 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:26.795819 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:20:27.061247 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:27.186408 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:20:27.448915 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:27.796655 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:20:27.852718 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:28.188476 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:20:28.253581 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:28.651835 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:28.797194 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:20:29.054243 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:29.190279 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:20:29.447452 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:29.797453 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:20:29.854756 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:30.191542 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:20:30.267387 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:30.651693 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:30.797878 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:20:31.056002 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:31.193406 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:20:31.453732 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:31.798617 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:20:31.852770 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:32.194560 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:20:32.252530 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:32.655282 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:32.798874 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:20:33.051969 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:33.196666 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:20:33.460741 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:33.799422 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:20:33.847931 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:34.198782 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:20:34.253689 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:34.653078 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:34.799691 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:20:35.052378 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:35.199840 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:20:35.456804 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:35.800648 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:20:35.856909 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:36.201743 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:20:36.256080 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:36.646513 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:36.801111 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:20:37.055461 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:37.202894 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:20:37.454844 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:37.801614 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:20:37.854840 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:38.204928 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:20:38.253655 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:38.652795 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:38.802438 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:20:39.049826 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:39.206214 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:20:39.449423 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:39.803355 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:20:39.850427 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:40.208283 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:20:40.251364 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:40.652255 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:40.803650 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:20:41.053268 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:41.209929 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:20:41.455775 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:41.804649 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:20:41.854447 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:42.211243 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:20:42.251251 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:42.655244 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:42.804881 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:20:43.056542 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:43.212644 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:20:43.466576 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:43.805375 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:20:43.851336 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:44.214102 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:20:44.252184 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:44.653890 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:44.806614 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:20:45.072100 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:45.215631 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:20:45.457467 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:45.807336 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:20:45.855329 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:46.217562 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:20:46.253421 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:46.653996 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:46.807620 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:20:47.053609 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:47.219199 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:20:47.453921 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:47.808846 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:20:47.855761 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:48.222544 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:20:48.256167 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:48.664442 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:48.809015 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:20:49.055422 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:49.223757 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:20:49.454062 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:49.810040 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:20:49.853415 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:50.225961 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:20:50.248281 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:50.653953 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:50.810651 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:20:51.054752 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:51.227088 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:20:51.453490 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:51.811344 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:20:51.851693 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:52.228640 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:20:52.251804 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:52.654097 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:52.811735 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:20:53.054482 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:53.230389 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:20:53.458789 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:53.812581 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:20:53.856047 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:54.235523 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:20:54.255509 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:54.654154 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:54.812891 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:20:55.048194 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:55.236906 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:20:55.453431 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:55.813148 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:20:55.855727 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:56.238683 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:20:56.252018 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:56.653325 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:56.813924 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:20:57.055507 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:57.239975 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:20:57.453612 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:57.814392 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:20:57.854649 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:58.241613 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:20:58.253474 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:58.652862 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:58.814530 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:20:59.064229 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:59.242771 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:20:59.450368 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:20:59.815089 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:20:59.857993 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:21:00.244125 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:21:00.252924 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:21:00.650126 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:21:00.815807 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:21:01.056181 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:21:01.245983 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:21:01.455615 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:21:01.816499 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:21:01.852199 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:21:02.248312 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:21:02.248911 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:21:02.650726 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:21:02.817325 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:21:03.055874 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:21:03.249252 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:21:03.452341 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:21:03.818261 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:21:03.853909 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:21:04.250958 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:21:04.253795 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:21:04.653699 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:21:04.819373 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:21:05.051827 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:21:05.252660 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:21:05.451915 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:21:05.819653 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:21:05.848021 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:21:06.254680 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:21:06.255113 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:21:06.654820 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:21:06.820475 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:21:07.053727 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:21:07.256364 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:21:07.455067 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:21:07.820856 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:21:07.853764 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:21:08.251038 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:21:08.258418 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:21:08.652606 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:21:08.822100 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:21:09.059829 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:21:09.260339 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:21:09.449388 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:21:09.822830 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:21:09.852910 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:21:10.253028 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:21:10.262491 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:21:10.662799 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:21:10.823433 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:21:11.053670 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:21:11.264377 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:21:11.450637 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:21:11.824505 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:21:11.851610 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:21:12.253673 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:21:12.266124 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:21:12.647388 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:21:12.824896 rproxy.go:192: state: idle, len(fq) == 0
+[tf] 2024/10/16 13:21:13.051700 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:21:13.267270 apiswitcher.go:65: idle: true
+[tf] 2024/10/16 13:21:13.458272 endpoint.go:31: have request for path: all (async: true)
+[tf] 2024/10/16 13:21:13.492012 main.go:146: received interrupt
+[tf] 2024/10/16 13:21:13.492113 main.go:147: shutting down
+[tf] 2024/10/16 13:21:13.492131 main.go:150: stopping http server
+[tf] 2024/10/16 13:21:13.492295 main.go:159: stopping rproxy
+[tf] 2024/10/16 13:21:13.492546 endpoint.go:72: HTTP server stopped
+[tf] 2024/10/16 13:21:13.492593 main.go:165: stopping management service
+[tf] 2024/10/16 13:21:13.512943 main.go:172: stopped all tfaas services

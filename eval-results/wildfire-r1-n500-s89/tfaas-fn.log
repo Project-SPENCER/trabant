@@ -1,0 +1,2007 @@
+function=wildfire handler=0 GET /health
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:11:57] "GET /health HTTP/1.1" 200 -
+function=wildfire handler=0 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.1847798079252243
+function=wildfire handler=0 skipping: 0.1847798079252243 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:13:29] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.07694413512945175
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:13:32] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 skipping: 0.07694413512945175 < 0.6
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.09925124794244766
+function=wildfire handler=0 skipping: 0.09925124794244766 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:13:35] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.07651402801275253
+function=wildfire handler=0 skipping: 0.07651402801275253 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:13:38] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.10944491624832153
+function=wildfire handler=0 skipping: 0.10944491624832153 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:13:43] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 7.722184818703681e-05
+function=wildfire handler=0 skipping: 7.722184818703681e-05 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:13:45] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.07651402801275253
+function=wildfire handler=0 skipping: 0.07651402801275253 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:13:46] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.000992335146293044
+function=wildfire handler=0 skipping: 0.000992335146293044 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:13:49] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.044090818613767624
+function=wildfire handler=0 skipping: 0.044090818613767624 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:13:51] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.044090818613767624
+function=wildfire handler=0 skipping: 0.044090818613767624 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:13:52] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:13:55] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 wildfire probability: 0.11404509097337723
+function=wildfire handler=0 skipping: 0.11404509097337723 < 0.6
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.07633597403764725
+function=wildfire handler=0 skipping: 0.07633597403764725 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:13:56] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.02870350331068039
+function=wildfire handler=0 skipping: 0.02870350331068039 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:14:00] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:14:06] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 wildfire probability: 0.02768123522400856
+function=wildfire handler=0 skipping: 0.02768123522400856 < 0.6
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:14:11] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 wildfire probability: 0.012237690389156342
+function=wildfire handler=0 skipping: 0.012237690389156342 < 0.6
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.0009773336350917816
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:14:14] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 skipping: 0.0009773336350917816 < 0.6
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.08784349262714386
+function=wildfire handler=0 skipping: 0.08784349262714386 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:14:15] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:14:16] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 wildfire probability: 0.07249695062637329
+function=wildfire handler=0 skipping: 0.07249695062637329 < 0.6
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.00012427418550942093
+function=wildfire handler=0 skipping: 0.00012427418550942093 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:14:18] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.12130365520715714
+function=wildfire handler=0 skipping: 0.12130365520715714 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:14:19] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.16940896213054657
+function=wildfire handler=0 skipping: 0.16940896213054657 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:14:25] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.014805723913013935
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:14:29] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 skipping: 0.014805723913013935 < 0.6
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.0002216246211901307
+function=wildfire handler=0 skipping: 0.0002216246211901307 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:14:32] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.08651724457740784
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:14:34] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 skipping: 0.08651724457740784 < 0.6
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.07633597403764725
+function=wildfire handler=0 skipping: 0.07633597403764725 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:14:41] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.044090818613767624
+function=wildfire handler=0 skipping: 0.044090818613767624 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:14:44] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.06308995187282562
+function=wildfire handler=0 skipping: 0.06308995187282562 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:14:49] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.15106455981731415
+function=wildfire handler=0 skipping: 0.15106455981731415 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:14:52] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.058791499584913254
+function=wildfire handler=0 skipping: 0.058791499584913254 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:14:55] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.0745929554104805
+function=wildfire handler=0 skipping: 0.0745929554104805 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:15:02] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.09044203162193298
+function=wildfire handler=0 skipping: 0.09044203162193298 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:15:04] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.006746458355337381
+function=wildfire handler=0 skipping: 0.006746458355337381 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:15:07] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.23434816300868988
+function=wildfire handler=0 skipping: 0.23434816300868988 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:15:09] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.7947368621826172
+function=wildfire handler=0 saving image
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:15:11] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.07914160192012787
+function=wildfire handler=0 skipping: 0.07914160192012787 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:15:14] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.06308995187282562
+function=wildfire handler=0 skipping: 0.06308995187282562 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:15:17] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.04116206243634224
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:15:19] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 skipping: 0.04116206243634224 < 0.6
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.03584301844239235
+function=wildfire handler=0 skipping: 0.03584301844239235 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:15:22] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.04877417907118797
+function=wildfire handler=0 skipping: 0.04877417907118797 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:15:24] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.06862419098615646
+function=wildfire handler=0 skipping: 0.06862419098615646 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:15:28] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.07633597403764725
+function=wildfire handler=0 skipping: 0.07633597403764725 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:15:29] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.006628071423619986
+function=wildfire handler=0 skipping: 0.006628071423619986 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:15:32] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.0004474764282349497
+function=wildfire handler=0 skipping: 0.0004474764282349497 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:15:35] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.057857852429151535
+function=wildfire handler=0 skipping: 0.057857852429151535 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:15:38] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.073354572057724
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:15:39] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 skipping: 0.073354572057724 < 0.6
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.0020052907057106495
+function=wildfire handler=0 skipping: 0.0020052907057106495 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:15:42] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.009458176791667938
+function=wildfire handler=0 skipping: 0.009458176791667938 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:15:44] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.11363523453474045
+function=wildfire handler=0 skipping: 0.11363523453474045 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:15:47] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.08058419823646545
+function=wildfire handler=0 skipping: 0.08058419823646545 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:15:48] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.16002275049686432
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:15:49] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 skipping: 0.16002275049686432 < 0.6
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.1762223094701767
+function=wildfire handler=0 skipping: 0.1762223094701767 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:15:51] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.07633597403764725
+function=wildfire handler=0 skipping: 0.07633597403764725 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:15:58] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.0771351233124733
+function=wildfire handler=0 skipping: 0.0771351233124733 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:16:02] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.11507292836904526
+function=wildfire handler=0 skipping: 0.11507292836904526 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:16:08] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.05423789098858833
+function=wildfire handler=0 skipping: 0.05423789098858833 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:16:13] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.07245239615440369
+function=wildfire handler=0 skipping: 0.07245239615440369 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:16:15] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.08564309030771255
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:16:16] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 skipping: 0.08564309030771255 < 0.6
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.07249695062637329
+function=wildfire handler=0 skipping: 0.07249695062637329 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:16:19] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.03459898754954338
+function=wildfire handler=0 skipping: 0.03459898754954338 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:16:21] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.07914160192012787
+function=wildfire handler=0 skipping: 0.07914160192012787 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:16:22] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.044090818613767624
+function=wildfire handler=0 skipping: 0.044090818613767624 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:16:28] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.06058671325445175
+function=wildfire handler=0 skipping: 0.06058671325445175 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:16:29] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.044090818613767624
+function=wildfire handler=0 skipping: 0.044090818613767624 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:16:34] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.07914160192012787
+function=wildfire handler=0 skipping: 0.07914160192012787 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:16:37] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.07393886893987656
+function=wildfire handler=0 skipping: 0.07393886893987656 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:16:42] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.06308995187282562
+function=wildfire handler=0 skipping: 0.06308995187282562 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:16:45] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.09415116906166077
+function=wildfire handler=0 skipping: 0.09415116906166077 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:16:47] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.00845800619572401
+function=wildfire handler=0 skipping: 0.00845800619572401 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:16:52] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.007630657404661179
+function=wildfire handler=0 skipping: 0.007630657404661179 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:17:02] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.07357864826917648
+function=wildfire handler=0 skipping: 0.07357864826917648 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:17:05] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.04612975940108299
+function=wildfire handler=0 skipping: 0.04612975940108299 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:17:09] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.1876678615808487
+function=wildfire handler=0 skipping: 0.1876678615808487 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:17:11] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.008338386192917824
+function=wildfire handler=0 skipping: 0.008338386192917824 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:17:12] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.06308995187282562
+function=wildfire handler=0 skipping: 0.06308995187282562 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:17:16] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.0745929554104805
+function=wildfire handler=0 skipping: 0.0745929554104805 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:17:19] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.044090818613767624
+function=wildfire handler=0 skipping: 0.044090818613767624 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:17:21] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.014082887209951878
+function=wildfire handler=0 skipping: 0.014082887209951878 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:17:22] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.0014123168075457215
+function=wildfire handler=0 skipping: 0.0014123168075457215 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:17:23] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.04391304403543472
+function=wildfire handler=0 skipping: 0.04391304403543472 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:17:29] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.014861790463328362
+function=wildfire handler=0 skipping: 0.014861790463328362 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:17:30] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.07249695062637329
+function=wildfire handler=0 skipping: 0.07249695062637329 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:17:38] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.08510228246450424
+function=wildfire handler=0 skipping: 0.08510228246450424 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:17:39] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.007931284606456757
+function=wildfire handler=0 skipping: 0.007931284606456757 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:17:41] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.012142982333898544
+function=wildfire handler=0 skipping: 0.012142982333898544 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:17:42] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.00011493974307086319
+function=wildfire handler=0 skipping: 0.00011493974307086319 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:17:48] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.014861790463328362
+function=wildfire handler=0 skipping: 0.014861790463328362 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:17:49] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.00030096794944256544
+function=wildfire handler=0 skipping: 0.00030096794944256544 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:17:51] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.07865388691425323
+function=wildfire handler=0 skipping: 0.07865388691425323 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:17:58] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.05423789098858833
+function=wildfire handler=0 skipping: 0.05423789098858833 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:17:59] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.08510228246450424
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:18:01] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 skipping: 0.08510228246450424 < 0.6
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.06308995187282562
+function=wildfire handler=0 skipping: 0.06308995187282562 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:18:04] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.29445961117744446
+function=wildfire handler=0 skipping: 0.29445961117744446 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:18:06] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.125579833984375
+function=wildfire handler=0 skipping: 0.125579833984375 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:18:09] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.08692595362663269
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:18:11] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 skipping: 0.08692595362663269 < 0.6
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.04172185808420181
+function=wildfire handler=0 skipping: 0.04172185808420181 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:18:12] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.024489983916282654
+function=wildfire handler=0 skipping: 0.024489983916282654 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:18:14] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.017815349623560905
+function=wildfire handler=0 skipping: 0.017815349623560905 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:18:17] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.09655237197875977
+function=wildfire handler=0 skipping: 0.09655237197875977 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:18:21] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.00017417475464753807
+function=wildfire handler=0 skipping: 0.00017417475464753807 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:18:22] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.05921746417880058
+function=wildfire handler=0 skipping: 0.05921746417880058 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:18:24] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.07024309039115906
+function=wildfire handler=0 skipping: 0.07024309039115906 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:18:26] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.08510228246450424
+function=wildfire handler=0 skipping: 0.08510228246450424 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:18:31] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.08510228246450424
+function=wildfire handler=0 skipping: 0.08510228246450424 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:18:32] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.06034643203020096
+function=wildfire handler=0 skipping: 0.06034643203020096 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:18:44] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.07245239615440369
+function=wildfire handler=0 skipping: 0.07245239615440369 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:18:45] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.12129446864128113
+function=wildfire handler=0 skipping: 0.12129446864128113 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:18:48] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.021031487733125687
+function=wildfire handler=0 skipping: 0.021031487733125687 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:18:52] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.06862419098615646
+function=wildfire handler=0 skipping: 0.06862419098615646 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:18:54] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.06034643203020096
+function=wildfire handler=0 skipping: 0.06034643203020096 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:18:58] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.04172185808420181
+function=wildfire handler=0 skipping: 0.04172185808420181 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:18:59] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 3.956302680307999e-05
+function=wildfire handler=0 skipping: 3.956302680307999e-05 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:19:02] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.07694413512945175
+function=wildfire handler=0 skipping: 0.07694413512945175 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:19:07] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.07633597403764725
+function=wildfire handler=0 skipping: 0.07633597403764725 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:19:08] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.0035427638795226812
+function=wildfire handler=0 skipping: 0.0035427638795226812 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:19:09] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.0745929554104805
+function=wildfire handler=0 skipping: 0.0745929554104805 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:19:14] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.07423456758260727
+function=wildfire handler=0 skipping: 0.07423456758260727 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:19:21] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.03618922829627991
+function=wildfire handler=0 skipping: 0.03618922829627991 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:19:22] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.05843328312039375
+function=wildfire handler=0 skipping: 0.05843328312039375 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:19:25] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.044090818613767624
+function=wildfire handler=0 skipping: 0.044090818613767624 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:19:27] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.0015417205868288875
+function=wildfire handler=0 skipping: 0.0015417205868288875 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:19:30] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.07694413512945175
+function=wildfire handler=0 skipping: 0.07694413512945175 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:19:31] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.07897881418466568
+function=wildfire handler=0 skipping: 0.07897881418466568 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:19:32] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.044090818613767624
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:19:35] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 skipping: 0.044090818613767624 < 0.6
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.0554548054933548
+function=wildfire handler=0 skipping: 0.0554548054933548 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:19:40] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.021323034539818764
+function=wildfire handler=0 skipping: 0.021323034539818764 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:19:45] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.00236968114040792
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:19:48] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 skipping: 0.00236968114040792 < 0.6
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.023676812648773193
+function=wildfire handler=0 skipping: 0.023676812648773193 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:19:54] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.09685017168521881
+function=wildfire handler=0 skipping: 0.09685017168521881 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:19:55] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.0745929554104805
+function=wildfire handler=0 skipping: 0.0745929554104805 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:19:57] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.06034643203020096
+function=wildfire handler=0 skipping: 0.06034643203020096 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:19:58] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.07651402801275253
+function=wildfire handler=0 skipping: 0.07651402801275253 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:20:01] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.07249695062637329
+function=wildfire handler=0 skipping: 0.07249695062637329 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:20:02] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.0038956257048994303
+function=wildfire handler=0 skipping: 0.0038956257048994303 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:20:07] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.06009359657764435
+function=wildfire handler=0 skipping: 0.06009359657764435 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:20:11] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.07865388691425323
+function=wildfire handler=0 skipping: 0.07865388691425323 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:20:17] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.07914160192012787
+function=wildfire handler=0 skipping: 0.07914160192012787 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:20:28] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.2302621603012085
+function=wildfire handler=0 skipping: 0.2302621603012085 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:20:31] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.03685246407985687
+function=wildfire handler=0 skipping: 0.03685246407985687 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:20:36] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.018373897299170494
+function=wildfire handler=0 skipping: 0.018373897299170494 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:20:41] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.1152101531624794
+function=wildfire handler=0 skipping: 0.1152101531624794 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:20:44] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.07423456758260727
+function=wildfire handler=0 skipping: 0.07423456758260727 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:20:52] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.07423456758260727
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:20:53] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 skipping: 0.07423456758260727 < 0.6
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.08819198608398438
+function=wildfire handler=0 skipping: 0.08819198608398438 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:20:54] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.004602624569088221
+function=wildfire handler=0 skipping: 0.004602624569088221 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:20:57] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.07245239615440369
+function=wildfire handler=0 skipping: 0.07245239615440369 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:20:59] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.0786949023604393
+function=wildfire handler=0 skipping: 0.0786949023604393 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:21:06] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.0786949023604393
+function=wildfire handler=0 skipping: 0.0786949023604393 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:21:09] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 9.497202700003982e-05
+function=wildfire handler=0 skipping: 9.497202700003982e-05 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:21:10] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.06308995187282562
+function=wildfire handler=0 skipping: 0.06308995187282562 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:21:12] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:21:15] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 wildfire probability: 0.060478970408439636
+function=wildfire handler=0 skipping: 0.060478970408439636 < 0.6
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.03180939331650734
+function=wildfire handler=0 skipping: 0.03180939331650734 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:21:16] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.014861790463328362
+function=wildfire handler=0 skipping: 0.014861790463328362 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:21:19] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.04230215772986412
+function=wildfire handler=0 skipping: 0.04230215772986412 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:21:21] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.5771722793579102
+function=wildfire handler=0 skipping: 0.5771722793579102 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:21:24] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.07249695062637329
+function=wildfire handler=0 skipping: 0.07249695062637329 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:21:25] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.07683831453323364
+function=wildfire handler=0 skipping: 0.07683831453323364 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:21:30] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.006269534584134817
+function=wildfire handler=0 skipping: 0.006269534584134817 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:21:32] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 6.953450792934746e-05
+function=wildfire handler=0 skipping: 6.953450792934746e-05 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:21:35] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.08938531577587128
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:21:40] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 skipping: 0.08938531577587128 < 0.6
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.3004288375377655
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:21:41] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 skipping: 0.3004288375377655 < 0.6
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.06494569033384323
+function=wildfire handler=0 skipping: 0.06494569033384323 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:21:43] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.24039344489574432
+function=wildfire handler=0 skipping: 0.24039344489574432 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:21:46] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.06034643203020096
+function=wildfire handler=0 skipping: 0.06034643203020096 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:21:48] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.049436409026384354
+function=wildfire handler=0 skipping: 0.049436409026384354 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:21:50] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.07245239615440369
+function=wildfire handler=0 skipping: 0.07245239615440369 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:21:56] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.0786949023604393
+function=wildfire handler=0 skipping: 0.0786949023604393 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:22:04] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.03908878564834595
+function=wildfire handler=0 skipping: 0.03908878564834595 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:22:10] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.03227962926030159
+function=wildfire handler=0 skipping: 0.03227962926030159 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:22:16] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.07633597403764725
+function=wildfire handler=0 skipping: 0.07633597403764725 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:22:20] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.12345317751169205
+function=wildfire handler=0 skipping: 0.12345317751169205 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:22:23] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.002561496803537011
+function=wildfire handler=0 skipping: 0.002561496803537011 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:22:26] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.046836208552122116
+function=wildfire handler=0 skipping: 0.046836208552122116 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:22:31] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.07633597403764725
+function=wildfire handler=0 skipping: 0.07633597403764725 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:22:39] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.06862419098615646
+function=wildfire handler=0 skipping: 0.06862419098615646 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:22:42] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.0002216246211901307
+function=wildfire handler=0 skipping: 0.0002216246211901307 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:22:43] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.07694413512945175
+function=wildfire handler=0 skipping: 0.07694413512945175 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:22:46] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.07865388691425323
+function=wildfire handler=0 skipping: 0.07865388691425323 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:22:47] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.012064517475664616
+function=wildfire handler=0 skipping: 0.012064517475664616 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:22:49] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.06034643203020096
+function=wildfire handler=0 skipping: 0.06034643203020096 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:22:52] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.073354572057724
+function=wildfire handler=0 skipping: 0.073354572057724 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:22:53] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.0888286754488945
+function=wildfire handler=0 skipping: 0.0888286754488945 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:22:56] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.0004523639508988708
+function=wildfire handler=0 skipping: 0.0004523639508988708 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:22:57] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.07633597403764725
+function=wildfire handler=0 skipping: 0.07633597403764725 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:22:59] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.06862419098615646
+function=wildfire handler=0 skipping: 0.06862419098615646 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:23:03] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.014861790463328362
+function=wildfire handler=0 skipping: 0.014861790463328362 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:23:07] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.0786949023604393
+function=wildfire handler=0 skipping: 0.0786949023604393 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:23:09] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.041087593883275986
+function=wildfire handler=0 skipping: 0.041087593883275986 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:23:12] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.03127037733793259
+function=wildfire handler=0 skipping: 0.03127037733793259 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:23:13] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.0786949023604393
+function=wildfire handler=0 skipping: 0.0786949023604393 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:23:14] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.053987856954336166
+function=wildfire handler=0 skipping: 0.053987856954336166 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:23:17] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.09463862329721451
+function=wildfire handler=0 skipping: 0.09463862329721451 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:23:20] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.0655595138669014
+function=wildfire handler=0 skipping: 0.0655595138669014 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:23:24] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.28385859727859497
+function=wildfire handler=0 skipping: 0.28385859727859497 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:23:26] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.07423456758260727
+function=wildfire handler=0 skipping: 0.07423456758260727 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:23:27] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.0002524095179978758
+function=wildfire handler=0 skipping: 0.0002524095179978758 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:23:29] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.06308995187282562
+function=wildfire handler=0 skipping: 0.06308995187282562 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:23:30] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.054329872131347656
+function=wildfire handler=0 skipping: 0.054329872131347656 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:23:32] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.04172185808420181
+function=wildfire handler=0 skipping: 0.04172185808420181 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:23:39] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.06436645984649658
+function=wildfire handler=0 skipping: 0.06436645984649658 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:23:40] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.07914160192012787
+function=wildfire handler=0 skipping: 0.07914160192012787 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:23:43] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.033729396760463715
+function=wildfire handler=0 skipping: 0.033729396760463715 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:23:44] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.028251735493540764
+function=wildfire handler=0 skipping: 0.028251735493540764 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:23:46] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.07914160192012787
+function=wildfire handler=0 skipping: 0.07914160192012787 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:23:49] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.050079263746738434
+function=wildfire handler=0 skipping: 0.050079263746738434 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:23:50] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.06034643203020096
+function=wildfire handler=0 skipping: 0.06034643203020096 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:23:52] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.04370110481977463
+function=wildfire handler=0 skipping: 0.04370110481977463 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:23:53] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.07423456758260727
+function=wildfire handler=0 skipping: 0.07423456758260727 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:23:56] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.07363418489694595
+function=wildfire handler=0 skipping: 0.07363418489694595 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:23:58] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.08192910999059677
+function=wildfire handler=0 skipping: 0.08192910999059677 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:24:01] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.72068190574646
+function=wildfire handler=0 saving image
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:24:06] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.07245239615440369
+function=wildfire handler=0 skipping: 0.07245239615440369 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:24:08] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.014861790463328362
+function=wildfire handler=0 skipping: 0.014861790463328362 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:24:09] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.07171104848384857
+function=wildfire handler=0 skipping: 0.07171104848384857 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:24:14] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.07393886893987656
+function=wildfire handler=0 skipping: 0.07393886893987656 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:24:15] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.073354572057724
+function=wildfire handler=0 skipping: 0.073354572057724 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:24:16] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.10676521807909012
+function=wildfire handler=0 skipping: 0.10676521807909012 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:24:22] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.00023443737882189453
+function=wildfire handler=0 skipping: 0.00023443737882189453 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:24:26] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.023057622835040092
+function=wildfire handler=0 skipping: 0.023057622835040092 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:24:28] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.05488670989871025
+function=wildfire handler=0 skipping: 0.05488670989871025 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:24:29] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.04248080030083656
+function=wildfire handler=0 skipping: 0.04248080030083656 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:24:32] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.13768957555294037
+function=wildfire handler=0 skipping: 0.13768957555294037 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:24:39] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.07759024947881699
+function=wildfire handler=0 skipping: 0.07759024947881699 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:24:45] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.0011012280592694879
+function=wildfire handler=0 skipping: 0.0011012280592694879 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:24:47] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.11603499948978424
+function=wildfire handler=0 skipping: 0.11603499948978424 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:24:48] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.06862419098615646
+function=wildfire handler=0 skipping: 0.06862419098615646 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:24:51] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.06308995187282562
+function=wildfire handler=0 skipping: 0.06308995187282562 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:24:54] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.025342436507344246
+function=wildfire handler=0 skipping: 0.025342436507344246 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:24:57] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.03307311609387398
+function=wildfire handler=0 skipping: 0.03307311609387398 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:25:00] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.08564309030771255
+function=wildfire handler=0 skipping: 0.08564309030771255 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:25:01] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.04172185808420181
+function=wildfire handler=0 skipping: 0.04172185808420181 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:25:04] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.0786949023604393
+function=wildfire handler=0 skipping: 0.0786949023604393 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:25:05] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.029556792229413986
+function=wildfire handler=0 skipping: 0.029556792229413986 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:25:07] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.12266398221254349
+function=wildfire handler=0 skipping: 0.12266398221254349 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:25:08] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.08510228246450424
+function=wildfire handler=0 skipping: 0.08510228246450424 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:25:11] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.07423456758260727
+function=wildfire handler=0 skipping: 0.07423456758260727 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:25:12] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.03625074774026871
+function=wildfire handler=0 skipping: 0.03625074774026871 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:25:14] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.1856270283460617
+function=wildfire handler=0 skipping: 0.1856270283460617 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:25:16] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.07694413512945175
+function=wildfire handler=0 skipping: 0.07694413512945175 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:25:18] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.014861790463328362
+function=wildfire handler=0 skipping: 0.014861790463328362 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:25:20] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.07633597403764725
+function=wildfire handler=0 skipping: 0.07633597403764725 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:25:24] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=0 (350, 350, 3) uint8
+function=wildfire handler=0 wildfire probability: 0.053750649094581604
+function=wildfire handler=0 skipping: 0.053750649094581604 < 0.6
+function=wildfire handler=0 172.20.0.1 - - [16/Oct/2024 07:25:26] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 GET /health
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:11:57] "GET /health HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+function=wildfire handler=1 wildfire probability: 0.04950970783829689
+function=wildfire handler=1 skipping: 0.04950970783829689 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:13:30] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.07651402801275253
+function=wildfire handler=1 skipping: 0.07651402801275253 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:13:33] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.06308995187282562
+function=wildfire handler=1 skipping: 0.06308995187282562 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:13:36] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.04172185808420181
+function=wildfire handler=1 skipping: 0.04172185808420181 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:13:39] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.2615146338939667
+function=wildfire handler=1 skipping: 0.2615146338939667 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:13:40] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.008810596540570259
+function=wildfire handler=1 skipping: 0.008810596540570259 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:13:42] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.024761060252785683
+function=wildfire handler=1 skipping: 0.024761060252785683 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:13:48] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.2076074779033661
+function=wildfire handler=1 skipping: 0.2076074779033661 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:13:53] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.07865388691425323
+function=wildfire handler=1 skipping: 0.07865388691425323 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:13:58] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.014861790463328362
+function=wildfire handler=1 skipping: 0.014861790463328362 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:13:59] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.06308995187282562
+function=wildfire handler=1 skipping: 0.06308995187282562 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:14:02] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.0029210227075964212
+function=wildfire handler=1 skipping: 0.0029210227075964212 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:14:03] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.016103122383356094
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:14:05] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 skipping: 0.016103122383356094 < 0.6
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.1276857703924179
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:14:08] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 skipping: 0.1276857703924179 < 0.6
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.0005582322482950985
+function=wildfire handler=1 skipping: 0.0005582322482950985 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:14:09] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.073354572057724
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:14:12] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 skipping: 0.073354572057724 < 0.6
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.08574538677930832
+function=wildfire handler=1 skipping: 0.08574538677930832 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:14:21] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.018120096996426582
+function=wildfire handler=1 skipping: 0.018120096996426582 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:14:22] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.8332923650741577
+function=wildfire handler=1 saving image
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:14:24] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.5398339033126831
+function=wildfire handler=1 skipping: 0.5398339033126831 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:14:26] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.073354572057724
+function=wildfire handler=1 skipping: 0.073354572057724 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:14:28] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.07336863875389099
+function=wildfire handler=1 skipping: 0.07336863875389099 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:14:31] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.06590976566076279
+function=wildfire handler=1 skipping: 0.06590976566076279 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:14:35] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.1463608592748642
+function=wildfire handler=1 skipping: 0.1463608592748642 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:14:36] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.08197808265686035
+function=wildfire handler=1 skipping: 0.08197808265686035 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:14:38] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.003615104593336582
+function=wildfire handler=1 skipping: 0.003615104593336582 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:14:39] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.0745929554104805
+function=wildfire handler=1 skipping: 0.0745929554104805 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:14:42] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:14:45] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 wildfire probability: 0.07651402801275253
+function=wildfire handler=1 skipping: 0.07651402801275253 < 0.6
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.09892634302377701
+function=wildfire handler=1 skipping: 0.09892634302377701 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:14:47] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.002124555641785264
+function=wildfire handler=1 skipping: 0.002124555641785264 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:14:48] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.06990525126457214
+function=wildfire handler=1 skipping: 0.06990525126457214 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:14:51] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.07651402801275253
+function=wildfire handler=1 skipping: 0.07651402801275253 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:14:54] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.0001425082009518519
+function=wildfire handler=1 skipping: 0.0001425082009518519 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:14:57] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.01981165260076523
+function=wildfire handler=1 skipping: 0.01981165260076523 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:14:58] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.02676858752965927
+function=wildfire handler=1 skipping: 0.02676858752965927 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:14:59] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.044090818613767624
+function=wildfire handler=1 skipping: 0.044090818613767624 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:15:01] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.07633597403764725
+function=wildfire handler=1 skipping: 0.07633597403764725 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:15:05] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.0037838646676391363
+function=wildfire handler=1 skipping: 0.0037838646676391363 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:15:08] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.014861790463328362
+function=wildfire handler=1 skipping: 0.014861790463328362 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:15:12] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.13935741782188416
+function=wildfire handler=1 skipping: 0.13935741782188416 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:15:15] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.0745929554104805
+function=wildfire handler=1 skipping: 0.0745929554104805 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:15:18] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.08510228246450424
+function=wildfire handler=1 skipping: 0.08510228246450424 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:15:21] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.07245239615440369
+function=wildfire handler=1 skipping: 0.07245239615440369 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:15:25] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.005339155439287424
+function=wildfire handler=1 skipping: 0.005339155439287424 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:15:27] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.8454980254173279
+function=wildfire handler=1 saving image
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:15:31] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.0505397692322731
+function=wildfire handler=1 skipping: 0.0505397692322731 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:15:34] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:15:37] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 wildfire probability: 0.03403346240520477
+function=wildfire handler=1 skipping: 0.03403346240520477 < 0.6
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.04172185808420181
+function=wildfire handler=1 skipping: 0.04172185808420181 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:15:41] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.08603421598672867
+function=wildfire handler=1 skipping: 0.08603421598672867 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:15:45] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.07531000673770905
+function=wildfire handler=1 skipping: 0.07531000673770905 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:15:52] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.0800364539027214
+function=wildfire handler=1 skipping: 0.0800364539027214 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:15:54] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.06034643203020096
+function=wildfire handler=1 skipping: 0.06034643203020096 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:15:55] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.0008602543966844678
+function=wildfire handler=1 skipping: 0.0008602543966844678 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:15:56] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.06862419098615646
+function=wildfire handler=1 skipping: 0.06862419098615646 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:15:59] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 6.953450792934746e-05
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:16:01] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 skipping: 6.953450792934746e-05 < 0.6
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.029965568333864212
+function=wildfire handler=1 skipping: 0.029965568333864212 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:16:04] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.05082811415195465
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:16:05] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 skipping: 0.05082811415195465 < 0.6
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.07249695062637329
+function=wildfire handler=1 skipping: 0.07249695062637329 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:16:06] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.01342038530856371
+function=wildfire handler=1 skipping: 0.01342038530856371 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:16:09] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.06023973971605301
+function=wildfire handler=1 skipping: 0.06023973971605301 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:16:11] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.07840777188539505
+function=wildfire handler=1 skipping: 0.07840777188539505 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:16:12] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.5801540613174438
+function=wildfire handler=1 skipping: 0.5801540613174438 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:16:18] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.06034643203020096
+function=wildfire handler=1 skipping: 0.06034643203020096 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:16:24] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.03934536874294281
+function=wildfire handler=1 skipping: 0.03934536874294281 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:16:25] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.01415804959833622
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:16:26] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 skipping: 0.01415804959833622 < 0.6
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.07651402801275253
+function=wildfire handler=1 skipping: 0.07651402801275253 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:16:31] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.07275122404098511
+function=wildfire handler=1 skipping: 0.07275122404098511 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:16:32] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.03240155056118965
+function=wildfire handler=1 skipping: 0.03240155056118965 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:16:35] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.0004313908866606653
+function=wildfire handler=1 skipping: 0.0004313908866606653 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:16:38] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.0745929554104805
+function=wildfire handler=1 skipping: 0.0745929554104805 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:16:39] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.04367968440055847
+function=wildfire handler=1 skipping: 0.04367968440055847 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:16:41] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.05097963288426399
+function=wildfire handler=1 skipping: 0.05097963288426399 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:16:44] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.040719229727983475
+function=wildfire handler=1 skipping: 0.040719229727983475 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:16:48] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.06308995187282562
+function=wildfire handler=1 skipping: 0.06308995187282562 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:16:49] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.05279796943068504
+function=wildfire handler=1 skipping: 0.05279796943068504 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:16:51] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.044090818613767624
+function=wildfire handler=1 skipping: 0.044090818613767624 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:16:54] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.0495908223092556
+function=wildfire handler=1 skipping: 0.0495908223092556 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:16:55] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.06308995187282562
+function=wildfire handler=1 skipping: 0.06308995187282562 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:16:56] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.08510228246450424
+function=wildfire handler=1 skipping: 0.08510228246450424 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:16:58] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.073354572057724
+function=wildfire handler=1 skipping: 0.073354572057724 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:16:59] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.07633597403764725
+function=wildfire handler=1 skipping: 0.07633597403764725 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:17:01] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.0005467438022606075
+function=wildfire handler=1 skipping: 0.0005467438022606075 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:17:03] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.09334859251976013
+function=wildfire handler=1 skipping: 0.09334859251976013 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:17:06] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.04362701624631882
+function=wildfire handler=1 skipping: 0.04362701624631882 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:17:08] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.05906423553824425
+function=wildfire handler=1 skipping: 0.05906423553824425 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:17:13] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.04172185808420181
+function=wildfire handler=1 skipping: 0.04172185808420181 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:17:15] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.10712475329637527
+function=wildfire handler=1 skipping: 0.10712475329637527 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:17:18] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.06215880066156387
+function=wildfire handler=1 skipping: 0.06215880066156387 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:17:25] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.07249695062637329
+function=wildfire handler=1 skipping: 0.07249695062637329 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:17:26] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.02422141097486019
+function=wildfire handler=1 skipping: 0.02422141097486019 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:17:28] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.03158397227525711
+function=wildfire handler=1 skipping: 0.03158397227525711 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:17:32] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.07865388691425323
+function=wildfire handler=1 skipping: 0.07865388691425323 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:17:33] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.012662648223340511
+function=wildfire handler=1 skipping: 0.012662648223340511 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:17:35] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.018126355484128
+function=wildfire handler=1 skipping: 0.018126355484128 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:17:36] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.02965855598449707
+function=wildfire handler=1 skipping: 0.02965855598449707 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:17:44] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.010797185823321342
+function=wildfire handler=1 skipping: 0.010797185823321342 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:17:45] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.014861790463328362
+function=wildfire handler=1 skipping: 0.014861790463328362 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:17:46] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.08616513013839722
+function=wildfire handler=1 skipping: 0.08616513013839722 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:17:52] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.07249695062637329
+function=wildfire handler=1 skipping: 0.07249695062637329 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:17:54] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.020235570147633553
+function=wildfire handler=1 skipping: 0.020235570147633553 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:17:55] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.0786949023604393
+function=wildfire handler=1 skipping: 0.0786949023604393 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:17:56] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.058157917112112045
+function=wildfire handler=1 skipping: 0.058157917112112045 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:18:02] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.07651402801275253
+function=wildfire handler=1 skipping: 0.07651402801275253 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:18:05] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.08564309030771255
+function=wildfire handler=1 skipping: 0.08564309030771255 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:18:08] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.07633597403764725
+function=wildfire handler=1 skipping: 0.07633597403764725 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:18:15] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.017367525026202202
+function=wildfire handler=1 skipping: 0.017367525026202202 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:18:18] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.019886111840605736
+function=wildfire handler=1 skipping: 0.019886111840605736 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:18:19] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.006068993825465441
+function=wildfire handler=1 skipping: 0.006068993825465441 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:18:25] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.05671200528740883
+function=wildfire handler=1 skipping: 0.05671200528740883 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:18:28] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.1336667835712433
+function=wildfire handler=1 skipping: 0.1336667835712433 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:18:29] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.07914160192012787
+function=wildfire handler=1 skipping: 0.07914160192012787 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:18:34] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.10676521807909012
+function=wildfire handler=1 skipping: 0.10676521807909012 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:18:35] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.08007536828517914
+function=wildfire handler=1 skipping: 0.08007536828517914 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:18:36] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.07812745124101639
+function=wildfire handler=1 skipping: 0.07812745124101639 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:18:38] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.0002524095179978758
+function=wildfire handler=1 skipping: 0.0002524095179978758 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:18:39] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.07423456758260727
+function=wildfire handler=1 skipping: 0.07423456758260727 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:18:41] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.016332751139998436
+function=wildfire handler=1 skipping: 0.016332751139998436 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:18:42] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.07737516611814499
+function=wildfire handler=1 skipping: 0.07737516611814499 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:18:46] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.04534386843442917
+function=wildfire handler=1 skipping: 0.04534386843442917 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:18:49] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.06695597618818283
+function=wildfire handler=1 skipping: 0.06695597618818283 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:18:51] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.07633597403764725
+function=wildfire handler=1 skipping: 0.07633597403764725 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:18:55] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.03814256191253662
+function=wildfire handler=1 skipping: 0.03814256191253662 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:18:56] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.012400106526911259
+function=wildfire handler=1 skipping: 0.012400106526911259 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:19:01] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.05975014716386795
+function=wildfire handler=1 skipping: 0.05975014716386795 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:19:04] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.0745929554104805
+function=wildfire handler=1 skipping: 0.0745929554104805 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:19:05] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.07423456758260727
+function=wildfire handler=1 skipping: 0.07423456758260727 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:19:11] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.00029458958306349814
+function=wildfire handler=1 skipping: 0.00029458958306349814 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:19:12] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.0007165286806412041
+function=wildfire handler=1 skipping: 0.0007165286806412041 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:19:15] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.08855102211236954
+function=wildfire handler=1 skipping: 0.08855102211236954 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:19:17] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.0745929554104805
+function=wildfire handler=1 skipping: 0.0745929554104805 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:19:18] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.20943665504455566
+function=wildfire handler=1 skipping: 0.20943665504455566 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:19:20] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.13874155282974243
+function=wildfire handler=1 skipping: 0.13874155282974243 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:19:24] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.08564309030771255
+function=wildfire handler=1 skipping: 0.08564309030771255 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:19:28] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.07393886893987656
+function=wildfire handler=1 skipping: 0.07393886893987656 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:19:34] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.07865388691425323
+function=wildfire handler=1 skipping: 0.07865388691425323 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:19:37] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.044090818613767624
+function=wildfire handler=1 skipping: 0.044090818613767624 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:19:38] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.06034643203020096
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:19:41] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 skipping: 0.06034643203020096 < 0.6
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.1695171743631363
+function=wildfire handler=1 skipping: 0.1695171743631363 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:19:43] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.07393886893987656
+function=wildfire handler=1 skipping: 0.07393886893987656 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:19:44] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.08690663427114487
+function=wildfire handler=1 skipping: 0.08690663427114487 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:19:47] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.23557335138320923
+function=wildfire handler=1 skipping: 0.23557335138320923 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:19:50] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.0686802938580513
+function=wildfire handler=1 skipping: 0.0686802938580513 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:19:51] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.0786949023604393
+function=wildfire handler=1 skipping: 0.0786949023604393 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:19:52] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.07245239615440369
+function=wildfire handler=1 skipping: 0.07245239615440369 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:19:59] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.07651402801275253
+function=wildfire handler=1 skipping: 0.07651402801275253 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:20:04] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.0008786119287833571
+function=wildfire handler=1 skipping: 0.0008786119287833571 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:20:05] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.0786949023604393
+function=wildfire handler=1 skipping: 0.0786949023604393 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:20:08] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.06862419098615646
+function=wildfire handler=1 skipping: 0.06862419098615646 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:20:10] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.0745929554104805
+function=wildfire handler=1 skipping: 0.0745929554104805 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:20:12] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.6190587282180786
+function=wildfire handler=1 saving image
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:20:14] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.008326725102961063
+function=wildfire handler=1 skipping: 0.008326725102961063 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:20:15] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.07633597403764725
+function=wildfire handler=1 skipping: 0.07633597403764725 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:20:18] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.014861790463328362
+function=wildfire handler=1 skipping: 0.014861790463328362 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:20:20] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.004391704220324755
+function=wildfire handler=1 skipping: 0.004391704220324755 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:20:21] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.073354572057724
+function=wildfire handler=1 skipping: 0.073354572057724 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:20:22] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.15133161842823029
+function=wildfire handler=1 skipping: 0.15133161842823029 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:20:24] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 1.970011362573132e-05
+function=wildfire handler=1 skipping: 1.970011362573132e-05 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:20:25] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.07865388691425323
+function=wildfire handler=1 skipping: 0.07865388691425323 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:20:27] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.06034643203020096
+function=wildfire handler=1 skipping: 0.06034643203020096 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:20:30] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.08510228246450424
+function=wildfire handler=1 skipping: 0.08510228246450424 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:20:33] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.03444765880703926
+function=wildfire handler=1 skipping: 0.03444765880703926 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:20:34] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.02744467929005623
+function=wildfire handler=1 skipping: 0.02744467929005623 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:20:37] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.11209303885698318
+function=wildfire handler=1 skipping: 0.11209303885698318 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:20:38] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.05898391082882881
+function=wildfire handler=1 skipping: 0.05898391082882881 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:20:40] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.053652647882699966
+function=wildfire handler=1 skipping: 0.053652647882699966 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:20:43] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.06494569033384323
+function=wildfire handler=1 skipping: 0.06494569033384323 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:20:46] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.11818960309028625
+function=wildfire handler=1 skipping: 0.11818960309028625 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:20:47] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.5224940776824951
+function=wildfire handler=1 skipping: 0.5224940776824951 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:20:49] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.006458148825913668
+function=wildfire handler=1 skipping: 0.006458148825913668 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:20:50] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.07393886893987656
+function=wildfire handler=1 skipping: 0.07393886893987656 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:20:56] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.0314473994076252
+function=wildfire handler=1 skipping: 0.0314473994076252 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:21:00] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.08626783639192581
+function=wildfire handler=1 skipping: 0.08626783639192581 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:21:02] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.03577895835042
+function=wildfire handler=1 skipping: 0.03577895835042 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:21:03] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.07249695062637329
+function=wildfire handler=1 skipping: 0.07249695062637329 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:21:05] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.014861790463328362
+function=wildfire handler=1 skipping: 0.014861790463328362 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:21:07] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.07633597403764725
+function=wildfire handler=1 skipping: 0.07633597403764725 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:21:13] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.07245239615440369
+function=wildfire handler=1 skipping: 0.07245239615440369 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:21:18] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.08993622660636902
+function=wildfire handler=1 skipping: 0.08993622660636902 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:21:22] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.11452307552099228
+function=wildfire handler=1 skipping: 0.11452307552099228 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:21:27] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.0786949023604393
+function=wildfire handler=1 skipping: 0.0786949023604393 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:21:28] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.011662773787975311
+function=wildfire handler=1 skipping: 0.011662773787975311 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:21:31] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.07249695062637329
+function=wildfire handler=1 skipping: 0.07249695062637329 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:21:34] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.07651402801275253
+function=wildfire handler=1 skipping: 0.07651402801275253 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:21:37] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.12772898375988007
+function=wildfire handler=1 skipping: 0.12772898375988007 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:21:38] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.07172136753797531
+function=wildfire handler=1 skipping: 0.07172136753797531 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:21:44] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.07865388691425323
+function=wildfire handler=1 skipping: 0.07865388691425323 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:21:47] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.073354572057724
+function=wildfire handler=1 skipping: 0.073354572057724 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:21:51] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.003466202411800623
+function=wildfire handler=1 skipping: 0.003466202411800623 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:21:53] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.0857241079211235
+function=wildfire handler=1 skipping: 0.0857241079211235 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:21:54] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.006719070486724377
+function=wildfire handler=1 skipping: 0.006719070486724377 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:21:57] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.08404463529586792
+function=wildfire handler=1 skipping: 0.08404463529586792 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:21:58] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.073354572057724
+function=wildfire handler=1 skipping: 0.073354572057724 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:22:00] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.027104288339614868
+function=wildfire handler=1 skipping: 0.027104288339614868 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:22:01] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.0812513455748558
+function=wildfire handler=1 skipping: 0.0812513455748558 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:22:03] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.07956581562757492
+function=wildfire handler=1 skipping: 0.07956581562757492 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:22:06] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.043776873499155045
+function=wildfire handler=1 skipping: 0.043776873499155045 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:22:07] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.06308995187282562
+function=wildfire handler=1 skipping: 0.06308995187282562 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:22:09] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.047961000353097916
+function=wildfire handler=1 skipping: 0.047961000353097916 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:22:11] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.10606390982866287
+function=wildfire handler=1 skipping: 0.10606390982866287 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:22:13] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.21886445581912994
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:22:14] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 skipping: 0.21886445581912994 < 0.6
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.14399349689483643
+function=wildfire handler=1 skipping: 0.14399349689483643 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:22:17] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.0786949023604393
+function=wildfire handler=1 skipping: 0.0786949023604393 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:22:18] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.008660300634801388
+function=wildfire handler=1 skipping: 0.008660300634801388 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:22:21] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.07694413512945175
+function=wildfire handler=1 skipping: 0.07694413512945175 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:22:24] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.07423456758260727
+function=wildfire handler=1 skipping: 0.07423456758260727 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:22:27] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.0001157529914053157
+function=wildfire handler=1 skipping: 0.0001157529914053157 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:22:29] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.044090818613767624
+function=wildfire handler=1 skipping: 0.044090818613767624 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:22:30] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.1509263813495636
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:22:33] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 skipping: 0.1509263813495636 < 0.6
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.031045395880937576
+function=wildfire handler=1 skipping: 0.031045395880937576 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:22:34] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.0006611581775359809
+function=wildfire handler=1 skipping: 0.0006611581775359809 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:22:36] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.073354572057724
+function=wildfire handler=1 skipping: 0.073354572057724 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:22:37] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.027422284707427025
+function=wildfire handler=1 skipping: 0.027422284707427025 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:22:40] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.07063977420330048
+function=wildfire handler=1 skipping: 0.07063977420330048 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:22:45] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.00341926421970129
+function=wildfire handler=1 skipping: 0.00341926421970129 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:22:50] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.0751863643527031
+function=wildfire handler=1 skipping: 0.0751863643527031 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:22:55] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.00038735868292860687
+function=wildfire handler=1 skipping: 0.00038735868292860687 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:23:00] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.073354572057724
+function=wildfire handler=1 skipping: 0.073354572057724 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:23:02] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.016826706007122993
+function=wildfire handler=1 skipping: 0.016826706007122993 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:23:04] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.0373927541077137
+function=wildfire handler=1 skipping: 0.0373927541077137 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:23:06] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.01480015367269516
+function=wildfire handler=1 skipping: 0.01480015367269516 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:23:10] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.0036086933687329292
+function=wildfire handler=1 skipping: 0.0036086933687329292 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:23:16] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.13109943270683289
+function=wildfire handler=1 skipping: 0.13109943270683289 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:23:19] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.0751863643527031
+function=wildfire handler=1 skipping: 0.0751863643527031 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:23:22] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.07245239615440369
+function=wildfire handler=1 skipping: 0.07245239615440369 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:23:23] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.05004992336034775
+function=wildfire handler=1 skipping: 0.05004992336034775 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:23:33] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.0007165286806412041
+function=wildfire handler=1 skipping: 0.0007165286806412041 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:23:35] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.9671536087989807
+function=wildfire handler=1 saving image
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:23:36] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.15953116118907928
+function=wildfire handler=1 skipping: 0.15953116118907928 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:23:37] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.0786949023604393
+function=wildfire handler=1 skipping: 0.0786949023604393 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:23:42] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.09594811499118805
+function=wildfire handler=1 skipping: 0.09594811499118805 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:23:47] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.04692889750003815
+function=wildfire handler=1 skipping: 0.04692889750003815 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:23:55] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.05286330729722977
+function=wildfire handler=1 skipping: 0.05286330729722977 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:23:59] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.06043819710612297
+function=wildfire handler=1 skipping: 0.06043819710612297 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:24:02] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.07249695062637329
+function=wildfire handler=1 skipping: 0.07249695062637329 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:24:04] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.10817652940750122
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:24:05] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 skipping: 0.10817652940750122 < 0.6
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.014861790463328362
+function=wildfire handler=1 skipping: 0.014861790463328362 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:24:11] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.07249695062637329
+function=wildfire handler=1 skipping: 0.07249695062637329 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:24:12] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.07865388691425323
+function=wildfire handler=1 skipping: 0.07865388691425323 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:24:18] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.05992263928055763
+function=wildfire handler=1 skipping: 0.05992263928055763 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:24:19] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.2676982581615448
+function=wildfire handler=1 skipping: 0.2676982581615448 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:24:21] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.073354572057724
+function=wildfire handler=1 skipping: 0.073354572057724 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:24:23] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.08510228246450424
+function=wildfire handler=1 skipping: 0.08510228246450424 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:24:25] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.05676673352718353
+function=wildfire handler=1 skipping: 0.05676673352718353 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:24:31] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.0006848655175417662
+function=wildfire handler=1 skipping: 0.0006848655175417662 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:24:34] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.0978420153260231
+function=wildfire handler=1 skipping: 0.0978420153260231 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:24:35] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.07914160192012787
+function=wildfire handler=1 skipping: 0.07914160192012787 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:24:37] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.06308995187282562
+function=wildfire handler=1 skipping: 0.06308995187282562 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:24:38] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.08564309030771255
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:24:41] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 skipping: 0.08564309030771255 < 0.6
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.08564309030771255
+function=wildfire handler=1 skipping: 0.08564309030771255 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:24:42] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.5498602986335754
+function=wildfire handler=1 skipping: 0.5498602986335754 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:24:44] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.06308995187282562
+function=wildfire handler=1 skipping: 0.06308995187282562 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:24:50] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.07249695062637329
+function=wildfire handler=1 skipping: 0.07249695062637329 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:24:52] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.1150602400302887
+function=wildfire handler=1 skipping: 0.1150602400302887 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:24:55] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.054851025342941284
+function=wildfire handler=1 skipping: 0.054851025342941284 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:24:58] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.08680489659309387
+function=wildfire handler=1 skipping: 0.08680489659309387 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:25:02] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.05457808077335358
+function=wildfire handler=1 skipping: 0.05457808077335358 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:25:10] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.07256774604320526
+function=wildfire handler=1 skipping: 0.07256774604320526 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:25:17] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.07651402801275253
+function=wildfire handler=1 skipping: 0.07651402801275253 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:25:21] "POST /fn HTTP/1.1" 200 -
+function=wildfire handler=1 (350, 350, 3) uint8
+function=wildfire handler=1 wildfire probability: 0.07865388691425323
+function=wildfire handler=1 skipping: 0.07865388691425323 < 0.6
+function=wildfire handler=1 172.20.0.1 - - [16/Oct/2024 07:25:23] "POST /fn HTTP/1.1" 200 -
+

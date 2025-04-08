@@ -1,0 +1,1161 @@
+function=segment handler=0 GET /health
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 06:55:43] "GET /health HTTP/1.1" 200 -
+function=segment handler=0 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+function=segment handler=0 (512, 512, 3) uint8
+function=segment handler=0 proportions: {4: 262144}
+function=segment handler=0 saving image
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 06:57:18] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 06:57:19] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 06:57:20] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 06:57:21] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 (512, 512, 3) uint8
+function=segment handler=0 proportions: {4: 262144}
+function=segment handler=0 saving image
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 06:57:25] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 06:57:26] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 06:57:28] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 06:57:29] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 06:57:32] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 (512, 512, 3) uint8
+function=segment handler=0 proportions: {4: 262144}
+function=segment handler=0 saving image
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 06:57:36] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 06:57:37] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 06:57:43] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 06:57:46] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 06:57:48] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 06:57:49] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 06:57:55] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 06:57:58] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 (512, 512, 3) uint8
+function=segment handler=0 proportions: {4: 262144}
+function=segment handler=0 saving image
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 06:58:09] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 06:58:11] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 (512, 512, 3) uint8
+function=segment handler=0 proportions: {4: 262144}
+function=segment handler=0 saving image
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 06:58:15] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 06:58:16] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 (512, 512, 3) uint8
+function=segment handler=0 proportions: {4: 262144}
+function=segment handler=0 saving image
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 06:58:26] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 06:58:28] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 (512, 512, 3) uint8
+function=segment handler=0 proportions: {4: 262144}
+function=segment handler=0 saving image
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 06:58:32] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 06:58:33] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 06:58:34] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 06:58:36] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 06:58:43] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 06:58:44] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 06:58:45] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 06:58:46] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 06:58:48] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 06:58:54] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 06:59:00] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 06:59:01] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 06:59:02] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 (512, 512, 3) uint8
+function=segment handler=0 proportions: {4: 262144}
+function=segment handler=0 saving image
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 06:59:07] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 06:59:09] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 06:59:11] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 06:59:18] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 06:59:22] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 06:59:24] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 06:59:25] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 06:59:26] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 06:59:31] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 06:59:32] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 (512, 512, 3) uint8
+function=segment handler=0 proportions: {4: 262144}
+function=segment handler=0 saving image
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 06:59:37] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 (512, 512, 3) uint8
+function=segment handler=0 proportions: {4: 262144}
+function=segment handler=0 saving image
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 06:59:44] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 06:59:45] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 06:59:46] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 06:59:47] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 06:59:50] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 06:59:54] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 06:59:55] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:00:01] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:00:04] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:00:06] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:00:08] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:00:09] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:00:10] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:00:11] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:00:17] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:00:20] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:00:23] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:00:25] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:00:27] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 (512, 512, 3) uint8
+function=segment handler=0 proportions: {4: 262144}
+function=segment handler=0 saving image
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:00:32] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:00:37] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:00:39] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:00:40] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:00:42] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:00:44] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 (512, 512, 3) uint8
+function=segment handler=0 proportions: {4: 262144}
+function=segment handler=0 saving image
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:00:54] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:00:55] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:00:56] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:01:01] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:01:11] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 (512, 512, 3) uint8
+function=segment handler=0 proportions: {4: 262144}
+function=segment handler=0 saving image
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:01:17] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:01:18] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:01:19] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 (512, 512, 3) uint8
+function=segment handler=0 proportions: {4: 262144}
+function=segment handler=0 saving image
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:01:24] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:01:25] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:01:27] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:01:30] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 (512, 512, 3) uint8
+function=segment handler=0 proportions: {4: 262144}
+function=segment handler=0 saving image
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:01:34] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:01:35] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:01:36] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:01:37] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:01:38] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:01:40] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:01:41] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:01:43] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:01:49] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 (512, 512, 3) uint8
+function=segment handler=0 proportions: {4: 262144}
+function=segment handler=0 saving image
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:01:53] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:01:55] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:01:59] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:02:01] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:02:02] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:02:10] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:02:11] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 (512, 512, 3) uint8
+function=segment handler=0 proportions: {4: 262144}
+function=segment handler=0 saving image
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:02:16] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 (512, 512, 3) uint8
+function=segment handler=0 proportions: {4: 262144}
+function=segment handler=0 saving image
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:02:26] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:02:28] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:02:30] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:02:32] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:02:35] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:02:36] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:02:37] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:02:39] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:02:40] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:02:41] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:02:43] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 (512, 512, 3) uint8
+function=segment handler=0 proportions: {4: 262144}
+function=segment handler=0 saving image
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:02:48] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:02:51] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 (512, 512, 3) uint8
+function=segment handler=0 proportions: {4: 262144}
+function=segment handler=0 saving image
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:02:56] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:03:02] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:03:04] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:03:05] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 (512, 512, 3) uint8
+function=segment handler=0 proportions: {4: 262144}
+function=segment handler=0 saving image
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:03:12] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:03:16] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:03:18] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:03:29] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:03:30] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:03:31] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 (512, 512, 3) uint8
+function=segment handler=0 proportions: {4: 262144}
+function=segment handler=0 saving image
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:03:37] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:03:38] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:03:39] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:03:40] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 (512, 512, 3) uint8
+function=segment handler=0 proportions: {4: 262144}
+function=segment handler=0 saving image
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:03:44] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:03:45] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:03:48] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:03:52] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:03:53] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:03:56] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:03:58] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:03:59] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:04:03] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:04:06] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:04:07] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 (512, 512, 3) uint8
+function=segment handler=0 proportions: {4: 262144}
+function=segment handler=0 saving image
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:04:13] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 (512, 512, 3) uint8
+function=segment handler=0 proportions: {4: 262144}
+function=segment handler=0 saving image
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:04:17] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:04:18] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:04:19] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:04:32] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:04:33] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:04:38] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:04:46] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:04:49] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:04:50] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:04:51] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:04:52] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:04:56] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 (512, 512, 3) uint8
+function=segment handler=0 proportions: {4: 262144}
+function=segment handler=0 saving image
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:05:05] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:05:06] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:05:08] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 (512, 512, 3) uint8
+function=segment handler=0 proportions: {4: 262144}
+function=segment handler=0 saving image
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:05:16] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:05:20] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:05:26] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 (512, 512, 3) uint8
+function=segment handler=0 proportions: {4: 262144}
+function=segment handler=0 saving image
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:05:32] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 (512, 512, 3) uint8
+function=segment handler=0 proportions: {4: 262144}
+function=segment handler=0 saving image
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:05:37] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:05:44] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:05:46] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:05:47] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:05:48] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 (512, 512, 3) uint8
+function=segment handler=0 proportions: {4: 262144}
+function=segment handler=0 saving image
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:05:53] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:05:56] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:05:57] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:05:58] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:05:59] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:06:00] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:06:01] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:06:03] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:06:10] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:06:11] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:06:12] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:06:13] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:06:14] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 (512, 512, 3) uint8
+function=segment handler=0 proportions: {4: 262144}
+function=segment handler=0 saving image
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:06:20] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:06:21] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:06:22] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:06:27] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:06:31] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:06:36] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:06:38] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:06:39] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:06:46] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 (512, 512, 3) uint8
+function=segment handler=0 proportions: {4: 262144}
+function=segment handler=0 saving image
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:06:53] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:06:55] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:06:57] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:07:02] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:07:07] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:07:08] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 (512, 512, 3) uint8
+function=segment handler=0 proportions: {4: 262144}
+function=segment handler=0 saving image
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:07:13] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:07:16] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 (512, 512, 3) uint8
+function=segment handler=0 proportions: {4: 262144}
+function=segment handler=0 saving image
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:07:22] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:07:23] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 (512, 512, 3) uint8
+function=segment handler=0 proportions: {4: 262144}
+function=segment handler=0 saving image
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:07:34] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 (512, 512, 3) uint8
+function=segment handler=0 proportions: {4: 262144}
+function=segment handler=0 saving image
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:07:38] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:07:42] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:07:47] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:07:53] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:07:55] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:07:57] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:07:59] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:08:01] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 (512, 512, 3) uint8
+function=segment handler=0 proportions: {4: 262144}
+function=segment handler=0 saving image
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:08:15] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:08:16] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:08:17] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:08:28] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:08:34] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:08:37] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:08:42] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:08:46] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:08:47] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:08:49] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:08:51] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 (512, 512, 3) uint8
+function=segment handler=0 proportions: {4: 262144}
+function=segment handler=0 saving image
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:08:55] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:08:57] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:08:58] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:09:03] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:09:05] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:09:06] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 (512, 512, 3) uint8
+function=segment handler=0 proportions: {4: 262144}
+function=segment handler=0 saving image
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:09:12] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:09:14] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 (512, 512, 3) uint8
+function=segment handler=0 proportions: {4: 262144}
+function=segment handler=0 saving image
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:09:18] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:09:19] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 (512, 512, 3) uint8
+function=segment handler=0 proportions: {4: 262144}
+function=segment handler=0 saving image
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:09:26] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:09:33] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 (512, 512, 3) uint8
+function=segment handler=0 proportions: {4: 262144}
+function=segment handler=0 saving image
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:09:38] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 (512, 512, 3) uint8
+function=segment handler=0 proportions: {4: 262144}
+function=segment handler=0 saving image
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:09:42] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:09:46] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:09:49] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:09:56] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:09:57] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:09:58] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:10:00] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 (512, 512, 3) uint8
+function=segment handler=0 proportions: {4: 262144}
+function=segment handler=0 saving image
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:10:08] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:10:13] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 (512, 512, 3) uint8
+function=segment handler=0 proportions: {4: 262144}
+function=segment handler=0 saving image
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:10:19] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:10:20] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:10:21] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:10:22] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:10:23] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:10:24] "POST /fn HTTP/1.1" 200 -
+function=segment handler=0 not in China
+function=segment handler=0 172.20.0.1 - - [16/Oct/2024 07:10:26] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 GET /health
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 06:55:43] "GET /health HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 06:57:30] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 06:57:31] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 06:57:42] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 06:57:45] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 06:57:47] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+function=segment handler=1 (512, 512, 3) uint8
+function=segment handler=1 proportions: {4: 262144}
+function=segment handler=1 saving image
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 06:57:53] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 06:57:54] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 06:57:57] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 06:57:59] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 06:58:00] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 06:58:01] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 06:58:02] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 06:58:03] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 06:58:04] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 06:58:10] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 06:58:17] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 (512, 512, 3) uint8
+function=segment handler=1 proportions: {4: 262144}
+function=segment handler=1 saving image
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 06:58:21] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 06:58:27] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 06:58:35] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 06:58:37] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 (512, 512, 3) uint8
+function=segment handler=1 proportions: {4: 262144}
+function=segment handler=1 saving image
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 06:58:42] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 06:58:47] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 06:58:49] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 (512, 512, 3) uint8
+function=segment handler=1 proportions: {4: 262144}
+function=segment handler=1 saving image
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 06:58:53] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 06:58:55] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 06:58:57] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 06:58:58] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 06:58:59] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 06:59:08] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 06:59:10] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 06:59:12] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 06:59:13] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 06:59:15] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 06:59:16] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 06:59:17] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 06:59:19] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 06:59:20] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 06:59:21] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 06:59:23] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 06:59:28] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 06:59:29] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 06:59:30] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 06:59:33] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 06:59:38] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 06:59:39] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 06:59:48] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 06:59:49] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 06:59:52] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 06:59:53] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 (512, 512, 3) uint8
+function=segment handler=1 proportions: {4: 262144}
+function=segment handler=1 saving image
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 06:59:59] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:00:00] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:00:02] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:00:03] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:00:07] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:00:12] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 (512, 512, 3) uint8
+function=segment handler=1 proportions: {4: 262144}
+function=segment handler=1 saving image
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:00:16] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:00:18] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:00:19] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:00:21] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:00:24] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:00:26] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:00:28] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:00:33] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:00:35] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:00:36] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:00:38] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:00:41] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:00:43] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 (512, 512, 3) uint8
+function=segment handler=1 proportions: {4: 262144}
+function=segment handler=1 saving image
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:00:49] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:00:50] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:00:57] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:00:58] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:01:00] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:01:02] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:01:03] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:01:04] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:01:05] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 (512, 512, 3) uint8
+function=segment handler=1 proportions: {4: 262144}
+function=segment handler=1 saving image
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:01:09] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:01:10] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:01:12] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:01:20] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:01:26] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:01:28] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:01:39] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:01:44] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 (512, 512, 3) uint8
+function=segment handler=1 proportions: {4: 262144}
+function=segment handler=1 saving image
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:01:48] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:01:54] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:01:56] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:01:58] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:02:00] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 (512, 512, 3) uint8
+function=segment handler=1 proportions: {4: 262144}
+function=segment handler=1 saving image
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:02:06] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:02:07] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:02:08] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:02:09] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:02:17] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 (512, 512, 3) uint8
+function=segment handler=1 proportions: {4: 262144}
+function=segment handler=1 saving image
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:02:21] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:02:22] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:02:27] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:02:31] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:02:33] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:02:34] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:02:38] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:02:44] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:02:49] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:02:50] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 (512, 512, 3) uint8
+function=segment handler=1 proportions: {4: 262144}
+function=segment handler=1 saving image
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:03:00] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:03:01] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:03:03] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:03:06] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:03:07] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:03:13] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:03:14] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:03:15] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:03:17] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:03:19] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:03:20] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:03:22] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 (512, 512, 3) uint8
+function=segment handler=1 proportions: {4: 262144}
+function=segment handler=1 saving image
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:03:26] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:03:27] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:03:28] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:03:32] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:03:46] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:03:47] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:03:50] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:03:51] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:03:54] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:03:55] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:03:57] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:04:01] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:04:02] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:04:04] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:04:05] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:04:08] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 (512, 512, 3) uint8
+function=segment handler=1 proportions: {4: 262144}
+function=segment handler=1 saving image
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:04:23] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:04:24] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:04:25] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 (512, 512, 3) uint8
+function=segment handler=1 proportions: {4: 262144}
+function=segment handler=1 saving image
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:04:30] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:04:31] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:04:34] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:04:35] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:04:36] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:04:37] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:04:39] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 (512, 512, 3) uint8
+function=segment handler=1 proportions: {4: 262144}
+function=segment handler=1 saving image
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:04:44] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:04:45] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:04:47] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:04:48] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:04:53] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:04:55] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:04:57] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:04:58] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:04:59] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:05:00] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:05:01] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 (512, 512, 3) uint8
+function=segment handler=1 proportions: {4: 262144}
+function=segment handler=1 saving image
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:05:12] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:05:17] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:05:18] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:05:19] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 (512, 512, 3) uint8
+function=segment handler=1 proportions: {4: 262144}
+function=segment handler=1 saving image
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:05:25] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:05:27] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:05:28] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 (512, 512, 3) uint8
+function=segment handler=1 proportions: {4: 262144}
+function=segment handler=1 saving image
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:05:41] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:05:42] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:05:43] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:05:45] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:05:54] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:05:55] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:06:02] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 (512, 512, 3) uint8
+function=segment handler=1 proportions: {4: 262144}
+function=segment handler=1 saving image
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:06:08] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:06:09] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:06:15] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 (512, 512, 3) uint8
+function=segment handler=1 proportions: {4: 262144}
+function=segment handler=1 saving image
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:06:26] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:06:28] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:06:29] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:06:30] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:06:32] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:06:33] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:06:34] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:06:37] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:06:40] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 (512, 512, 3) uint8
+function=segment handler=1 proportions: {4: 262144}
+function=segment handler=1 saving image
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:06:44] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:06:45] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:06:47] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:06:48] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:06:54] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:06:56] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:06:58] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:06:59] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:07:00] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:07:03] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:07:04] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:07:05] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:07:06] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:07:14] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:07:15] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:07:17] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:07:18] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 (512, 512, 3) uint8
+function=segment handler=1 proportions: {4: 262144}
+function=segment handler=1 saving image
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:07:28] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:07:29] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:07:30] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:07:40] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:07:41] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 (512, 512, 3) uint8
+function=segment handler=1 proportions: {4: 262144}
+function=segment handler=1 saving image
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:07:46] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:07:48] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:07:49] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:07:50] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:07:51] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:07:52] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:07:56] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:07:58] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:08:00] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 (512, 512, 3) uint8
+function=segment handler=1 proportions: {4: 262144}
+function=segment handler=1 saving image
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:08:05] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 (512, 512, 3) uint8
+function=segment handler=1 proportions: {4: 262144}
+function=segment handler=1 saving image
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:08:09] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:08:11] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 (512, 512, 3) uint8
+function=segment handler=1 proportions: {4: 262144}
+function=segment handler=1 saving image
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:08:21] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:08:22] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 (512, 512, 3) uint8
+function=segment handler=1 proportions: {4: 262144}
+function=segment handler=1 saving image
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:08:27] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:08:29] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 (512, 512, 3) uint8
+function=segment handler=1 proportions: {4: 262144}
+function=segment handler=1 saving image
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:08:33] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:08:35] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:08:36] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:08:38] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:08:39] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:08:40] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:08:43] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:08:44] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:08:45] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:08:48] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:08:56] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:09:00] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:09:01] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:09:02] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:09:04] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:09:07] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:09:13] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:09:20] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:09:21] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:09:27] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:09:28] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 (512, 512, 3) uint8
+function=segment handler=1 proportions: {4: 262144}
+function=segment handler=1 saving image
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:09:32] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:09:43] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:09:44] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:09:45] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:09:48] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 (512, 512, 3) uint8
+function=segment handler=1 proportions: {4: 262144}
+function=segment handler=1 saving image
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:09:53] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:09:54] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:09:55] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:09:59] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:10:02] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:10:03] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:10:04] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 (512, 512, 3) uint8
+function=segment handler=1 proportions: {4: 262144}
+function=segment handler=1 saving image
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:10:12] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:10:14] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:10:25] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 172.20.0.1 - - [16/Oct/2024 07:10:28] "POST /fn HTTP/1.1" 200 -
+function=segment handler=1 not in China
+
